@@ -1,0 +1,2130 @@
+[
+  {
+    "campo_amplio": "Educación 01",
+    "campo_especifico": "1 Educación",
+    "campo_detallado": "1 Ciencias de la educación",
+    "carrera": "A Educación",
+    "titulacion": "01 Licenciado/a en Ciencias de la Educación"
+  },
+  {
+    "campo_amplio": "Educación 01",
+    "campo_especifico": "1 Educación",
+    "campo_detallado": "1 Ciencias de la educación",
+    "carrera": "B Ciencias de la Actividad Física y Deporte",
+    "titulacion": "01 Licenciado/a en Ciencias de la Actividad Física y Deporte"
+  },
+  {
+    "campo_amplio": "Educación 01",
+    "campo_especifico": "1 Educación",
+    "campo_detallado": "2 Formación para docentes de educación preprimaria",
+    "carrera": "A Educación Inicial",
+    "titulacion": "01 Licenciado/a en Ciencias de la Educación Inicial"
+  },
+  {
+    "campo_amplio": "Educación 01",
+    "campo_especifico": "1 Educación",
+    "campo_detallado": "2 Formación para docentes de educación preprimaria",
+    "carrera": "B Gestión del Desarrollo Infantil Familiar Comunitario",
+    "titulacion": "01 Licenciado/a en Gestión del Desarrollo Infantil Familiar Comunitario"
+  },
+  {
+    "campo_amplio": "Educación 01",
+    "campo_especifico": "1 Educación",
+    "campo_detallado": "3 Formación para docentes sin asignaturas de especialización",
+    "carrera": "A Educación Básica",
+    "titulacion": "01 Licenciado/a en Ciencias de la Educación Básica"
+  },
+  {
+    "campo_amplio": "Educación 01",
+    "campo_especifico": "1 Educación",
+    "campo_detallado": "4 Formación para docentes con asignaturas de especialización",
+    "carrera": "B Educación Especial",
+    "titulacion": "01 Licenciado/a en Ciencias de la Educación Especial"
+  },
+  {
+    "campo_amplio": "Educación 01",
+    "campo_especifico": "1 Educación",
+    "campo_detallado": "4 Formación para docentes con asignaturas de especialización",
+    "carrera": "C Educación Intercultural Bilingüe",
+    "titulacion": "01 Licenciado/a en Ciencias de la Educación Intercultural Bilingüe"
+  },
+  {
+    "campo_amplio": "Educación 01",
+    "campo_especifico": "1 Educación",
+    "campo_detallado": "4 Formación para docentes con asignaturas de especialización",
+    "carrera": "D Educación Inclusiva",
+    "titulacion": "01 Licenciado/a en Educación Inclusiva"
+  },
+  {
+    "campo_amplio": "Educación 01",
+    "campo_especifico": "1 Educación",
+    "campo_detallado": "4 Formación para docentes con asignaturas de especialización",
+    "carrera": "A Pedagogía de las Ciencias Experimentales",
+    "titulacion": "01 Licenciado/a en Pedagogía de las Matemáticas y la Física"
+  },
+  {
+    "campo_amplio": "Educación 01",
+    "campo_especifico": "1 Educación",
+    "campo_detallado": "4 Formación para docentes con asignaturas de especialización",
+    "carrera": "A Pedagogía de las Ciencias Experimentales",
+    "titulacion": "02 Licenciado/a en Pedagogía de la Química y Biología"
+  },
+  {
+    "campo_amplio": "Educación 01",
+    "campo_especifico": "1 Educación",
+    "campo_detallado": "4 Formación para docentes con asignaturas de especialización",
+    "carrera": "A Pedagogía de las Ciencias Experimentales",
+    "titulacion": "03 Licenciado/a en Pedagogía de la Informática"
+  },
+  {
+    "campo_amplio": "Educación 01",
+    "campo_especifico": "1 Educación",
+    "campo_detallado": "4 Formación para docentes con asignaturas de especialización",
+    "carrera": "B Pedagogía de la Historia y las Ciencias Sociales",
+    "titulacion": "01 Licenciado/a en Pedagogía de la Historia y las Ciencias Sociales"
+  },
+  {
+    "campo_amplio": "Educación 01",
+    "campo_especifico": "1 Educación",
+    "campo_detallado": "4 Formación para docentes con asignaturas de especialización",
+    "carrera": "C Pedagogía de la Lengua y la Literatura",
+    "titulacion": "01 Licenciado/a en Pedagogía de la Lengua y Literatura"
+  },
+  {
+    "campo_amplio": "Educación 01",
+    "campo_especifico": "1 Educación",
+    "campo_detallado": "4 Formación para docentes con asignaturas de especialización",
+    "carrera": "D Pedagogía de las Artes y las Humanidades",
+    "titulacion": "01 Licenciado/a en Pedagogía de la Filosofía"
+  },
+  {
+    "campo_amplio": "Educación 01",
+    "campo_especifico": "1 Educación",
+    "campo_detallado": "4 Formación para docentes con asignaturas de especialización",
+    "carrera": "D Pedagogía de las Artes y las Humanidades",
+    "titulacion": "02 Licenciado/a en Pedagogía de las Artes"
+  },
+  {
+    "campo_amplio": "Educación 01",
+    "campo_especifico": "1 Educación",
+    "campo_detallado": "4 Formación para docentes con asignaturas de especialización",
+    "carrera": "E Pedagogía de los Idiomas Nacionales y Extranjeros",
+    "titulacion": "01 Licenciado/a en Pedagogía del Idioma Inglés"
+  },
+  {
+    "campo_amplio": "Educación 01",
+    "campo_especifico": "1 Educación",
+    "campo_detallado": "4 Formación para docentes con asignaturas de especialización",
+    "carrera": "F Pedagogía de la Actividad Física y Deporte",
+    "titulacion": "01 Licenciado/a en Pedagogía de la Actividad Física y Deporte"
+  },
+  {
+    "campo_amplio": "Educación 01",
+    "campo_especifico": "1 Educación",
+    "campo_detallado": "4 Formación para docentes con asignaturas de especialización",
+    "carrera": "G Pedagogía Musical",
+    "titulacion": "01 Licenciado/a en Pedagogía Musical"
+  },
+  {
+    "campo_amplio": "Educación 01",
+    "campo_especifico": "1 Educación",
+    "campo_detallado": "4 Formación para docentes con asignaturas de especialización",
+    "carrera": "H Educación en Ciencias Experimentales",
+    "titulacion": "01 Licenciado/a en Educación en Ciencias Experimentales"
+  },
+  {
+    "campo_amplio": "Educación 01",
+    "campo_especifico": "1 Educación",
+    "campo_detallado": "4 Formación para docentes con asignaturas de especialización",
+    "carrera": "I Pedagogía Técnica de la Mecatrónica",
+    "titulacion": "01 Licenciado/a en Pedagogía Técnica de la Mecatrónica"
+  },
+  {
+    "campo_amplio": "Educación 01",
+    "campo_especifico": "1 Educación",
+    "campo_detallado": "4 Formación para docentes con asignaturas de especialización",
+    "carrera": "J Pedagogía de las Tecnologías de la Información y la Comunicación",
+    "titulacion": "01 Licenciado/a en Pedagogía de las Tecnologías de la Información y la Comunicación"
+  },
+  {
+    "campo_amplio": "Educación 01",
+    "campo_especifico": "1 Educación",
+    "campo_detallado": "4 Formación para docentes con asignaturas de especialización",
+    "carrera": "K Pedagogía, Currículo y Didáctica de la Educación Básica",
+    "titulacion": "01 Licenciado/a en Pedagogía, Currículo y Didáctica de la Educación Básica"
+  },
+  {
+    "campo_amplio": "Educación 01",
+    "campo_especifico": "1 Educación",
+    "campo_detallado": "81 Psicopedagogía",
+    "carrera": "A Psicopedagogía",
+    "titulacion": "01 Licenciado/a en Psicopedagogía"
+  },
+  {
+    "campo_amplio": "02 Artes y humanidades ",
+    "campo_especifico": "1 Artes",
+    "campo_detallado": "1 Técnicas audiovisuales y producción para medios",
+    "carrera": "A Técnicas Audiovisuales",
+    "titulacion": "01 Licenciado/a en Técnicas Audiovisuales"
+  },
+  {
+    "campo_amplio": "02 Artes y humanidades ",
+    "campo_especifico": "1 Artes",
+    "campo_detallado": "1 Técnicas audiovisuales y producción para medios",
+    "carrera": "B Animación Digital",
+    "titulacion": "01 Licenciado/a en Animación Digital"
+  },
+  {
+    "campo_amplio": "02 Artes y humanidades ",
+    "campo_especifico": "1 Artes",
+    "campo_detallado": "1 Técnicas audiovisuales y producción para medios",
+    "carrera": "C Producción para Medios de Comunicación",
+    "titulacion": "01 Licenciado/a en Producción para Medios de Comunicación"
+  },
+  {
+    "campo_amplio": "02 Artes y humanidades ",
+    "campo_especifico": "1 Artes",
+    "campo_detallado": "1 Técnicas audiovisuales y producción para medios",
+    "carrera": "D Multimedia y Producción Audiovisual",
+    "titulacion": "01 Licenciado/a en Multimedia y Producción Audiovisual"
+  },
+  {
+    "campo_amplio": "02 Artes y humanidades ",
+    "campo_especifico": "1 Artes",
+    "campo_detallado": "1 Técnicas audiovisuales y producción para medios",
+    "carrera": "E Arte y Producción de Videojuegos",
+    "titulacion": "01 Licenciado/a en Arte y Producción de Videojuegos"
+  },
+  {
+    "campo_amplio": "02 Artes y humanidades ",
+    "campo_especifico": "1 Artes",
+    "campo_detallado": "1 Técnicas audiovisuales y producción para medios",
+    "carrera": "F Entornos Multimedia y Experiencia de Usuario",
+    "titulacion": "01 Licenciado/a en Entornos Multimedia y Experiencia de Usuario"
+  },
+  {
+    "campo_amplio": "02 Artes y humanidades ",
+    "campo_especifico": "1 Artes",
+    "campo_detallado": "1 Técnicas audiovisuales y producción para medios",
+    "carrera": "G Producción de Contenidos Digitales",
+    "titulacion": "01 Licenciado/a en Producción de Contenidos Digitales"
+  },
+  {
+    "campo_amplio": "02 Artes y humanidades ",
+    "campo_especifico": "1 Artes",
+    "campo_detallado": "2 Diseño",
+    "carrera": "A Diseño Textil e Indumentaria",
+    "titulacion": "01 Licenciado/a en Diseño Textil e Indumentaria"
+  },
+  {
+    "campo_amplio": "02 Artes y humanidades ",
+    "campo_especifico": "1 Artes",
+    "campo_detallado": "2 Diseño",
+    "carrera": "B Diseño Gráfico",
+    "titulacion": "01 Licenciado/a en Diseño Gráfico"
+  },
+  {
+    "campo_amplio": "02 Artes y humanidades ",
+    "campo_especifico": "1 Artes",
+    "campo_detallado": "2 Diseño",
+    "carrera": "C Diseño de Interiores",
+    "titulacion": "01 Licenciado/a en Diseño de Interiores"
+  },
+  {
+    "campo_amplio": "02 Artes y humanidades ",
+    "campo_especifico": "1 Artes",
+    "campo_detallado": "2 Diseño",
+    "carrera": "D Diseño de Productos",
+    "titulacion": "01 Licenciado/a en Diseño de Productos"
+  },
+  {
+    "campo_amplio": "02 Artes y humanidades ",
+    "campo_especifico": "1 Artes",
+    "campo_detallado": "2 Diseño",
+    "carrera": "E Diseño Multimedia",
+    "titulacion": "01 Licenciado/a en Diseño Multimedia"
+  },
+  {
+    "campo_amplio": "02 Artes y humanidades ",
+    "campo_especifico": "1 Artes",
+    "campo_detallado": "2 Diseño",
+    "carrera": "F Diseño Textil Cuero e Indumentaria",
+    "titulacion": "01 Licenciado/a en Diseño Textil Cuero e Indumentaria"
+  },
+  {
+    "campo_amplio": "02 Artes y humanidades ",
+    "campo_especifico": "1 Artes",
+    "campo_detallado": "2 Diseño",
+    "carrera": "G Diseño Digital",
+    "titulacion": "01 Licenciado/a en Diseño Digital"
+  },
+  {
+    "campo_amplio": "02 Artes y humanidades ",
+    "campo_especifico": "1 Artes",
+    "campo_detallado": "2 Diseño",
+    "carrera": "H Diseño Gráfico Interactivo",
+    "titulacion": "01 Licenciado/a en Diseño Gráfico Interactivo"
+  },
+  {
+    "campo_amplio": "02 Artes y humanidades ",
+    "campo_especifico": "1 Artes",
+    "campo_detallado": "2 Diseño",
+    "carrera": "I Diseño de Medios Interactivos",
+    "titulacion": "01 Licenciado/a en Diseño de Medios Interactivos"
+  },
+  {
+    "campo_amplio": "02 Artes y humanidades ",
+    "campo_especifico": "1 Artes",
+    "campo_detallado": "3 Artes",
+    "carrera": "A Artes Plásticas",
+    "titulacion": "01 Licenciado/a en Artes Plásticas"
+  },
+  {
+    "campo_amplio": "02 Artes y humanidades ",
+    "campo_especifico": "1 Artes",
+    "campo_detallado": "3 Artes",
+    "carrera": "B Curaduría",
+    "titulacion": "01 Licenciado/a en Curaduría"
+  },
+  {
+    "campo_amplio": "02 Artes y humanidades ",
+    "campo_especifico": "1 Artes",
+    "campo_detallado": "3 Artes",
+    "carrera": "C Artes Visuales",
+    "titulacion": "01 Licenciado/a en Artes Visuales"
+  },
+  {
+    "campo_amplio": "02 Artes y humanidades ",
+    "campo_especifico": "1 Artes",
+    "campo_detallado": "5 Música y artes escénicas",
+    "carrera": "A Artes Escénicas",
+    "titulacion": "01 Licenciado/a en Artes Escénicas"
+  },
+  {
+    "campo_amplio": "02 Artes y humanidades ",
+    "campo_especifico": "1 Artes",
+    "campo_detallado": "5 Música y artes escénicas",
+    "carrera": "B Artes Musicales",
+    "titulacion": "01 Licenciado/a en Artes Musicales"
+  },
+  {
+    "campo_amplio": "02 Artes y humanidades ",
+    "campo_especifico": "1 Artes",
+    "campo_detallado": "5 Música y artes escénicas",
+    "carrera": "B Artes Musicales",
+    "titulacion": "02 Licenciado/a en Artes Musicales y Sonoras"
+  },
+  {
+    "campo_amplio": "02 Artes y humanidades ",
+    "campo_especifico": "1 Artes",
+    "campo_detallado": "5 Música y artes escénicas",
+    "carrera": "C Cine",
+    "titulacion": "01 Licenciado/a en Cine"
+  },
+  {
+    "campo_amplio": "02 Artes y humanidades ",
+    "campo_especifico": "1 Artes",
+    "campo_detallado": "5 Música y artes escénicas",
+    "carrera": "D Creación Teatral",
+    "titulacion": "01 Licenciado/a en Creación Teatral"
+  },
+  {
+    "campo_amplio": "02 Artes y humanidades ",
+    "campo_especifico": "1 Artes",
+    "campo_detallado": "5 Música y artes escénicas",
+    "carrera": "E Producción Musical",
+    "titulacion": "01 Licenciado/a en Producción Musical y Sonora"
+  },
+  {
+    "campo_amplio": "02 Artes y humanidades ",
+    "campo_especifico": "1 Artes",
+    "campo_detallado": "5 Música y artes escénicas",
+    "carrera": "F Danza",
+    "titulacion": "01 Licenciado/a en Danza"
+  },
+  {
+    "campo_amplio": "02 Artes y humanidades ",
+    "campo_especifico": "1 Artes",
+    "campo_detallado": "5 Música y artes escénicas",
+    "carrera": "G Composición para Medios Contemporáneos",
+    "titulacion": "01 Licenciado/a en Composición para Medios Contemporáneos"
+  },
+  {
+    "campo_amplio": "02 Artes y humanidades ",
+    "campo_especifico": "1 Artes",
+    "campo_detallado": "5 Música y artes escénicas",
+    "carrera": "H Ejecución de Música Contemporánea",
+    "titulacion": "01 Licenciado/a en Ejecución de Música Contemporánea"
+  },
+  {
+    "campo_amplio": "02 Artes y humanidades ",
+    "campo_especifico": "1 Artes",
+    "campo_detallado": "6 Artes literarias",
+    "carrera": "A Crear carrera",
+    "titulacion": "01 Crear titulación"
+  },
+  {
+    "campo_amplio": "02 Artes y humanidades ",
+    "campo_especifico": "2 Humanidades",
+    "campo_detallado": "1 Religión, teología y saberes ancestrales",
+    "carrera": "A Teología",
+    "titulacion": "01 Licenciado/a en Teología"
+  },
+  {
+    "campo_amplio": "02 Artes y humanidades ",
+    "campo_especifico": "2 Humanidades",
+    "campo_detallado": "1 Religión, teología y saberes ancestrales",
+    "carrera": "B Religión",
+    "titulacion": "01 Licenciado/a en Pedagogía de la Religión / 02 Licenciado/a en Religión"
+  },
+  {
+    "campo_amplio": "02 Artes y humanidades ",
+    "campo_especifico": "2 Humanidades",
+    "campo_detallado": "1 Religión, teología y saberes ancestrales",
+    "carrera": "C Gestión Eclesial",
+    "titulacion": "01 Licenciado/a en Gestión Eclesial"
+  },
+  {
+    "campo_amplio": "02 Artes y humanidades ",
+    "campo_especifico": "2 Humanidades",
+    "campo_detallado": "2 Historia y arqueología",
+    "carrera": "A Historia",
+    "titulacion": "01 Licenciado/a en Historia"
+  },
+  {
+    "campo_amplio": "02 Artes y humanidades ",
+    "campo_especifico": "2 Humanidades",
+    "campo_detallado": "2 Historia y arqueología",
+    "carrera": "B Arqueología",
+    "titulacion": "01 Licenciado/a en Arqueología"
+  },
+  {
+    "campo_amplio": "02 Artes y humanidades ",
+    "campo_especifico": "2 Humanidades",
+    "campo_detallado": "2 Historia y arqueología",
+    "carrera": "C Crítica e Historia del Arte",
+    "titulacion": "01 Licenciado/a en Crítica e Historia del Arte"
+  },
+  {
+    "campo_amplio": "02 Artes y humanidades ",
+    "campo_especifico": "2 Humanidades",
+    "campo_detallado": "3 Filosofía",
+    "carrera": "A Filosofía",
+    "titulacion": "01 Licenciado/a en Filosofía"
+  },
+  {
+    "campo_amplio": "02 Artes y humanidades ",
+    "campo_especifico": "3 Idiomas",
+    "campo_detallado": "1 Idiomas",
+    "carrera": "A Idiomas",
+    "titulacion": "01 Licenciado/a en Idioma Castellano / 02 Francés / 03 Inglés"
+  },
+  {
+    "campo_amplio": "02 Artes y humanidades ",
+    "campo_especifico": "3 Idiomas",
+    "campo_detallado": "1 Idiomas",
+    "carrera": "B Lenguas Aplicadas a los Estudios Globales",
+    "titulacion": "01 Licenciado/a en Lenguas Aplicadas a los Estudios Globales"
+  },
+  {
+    "campo_amplio": "02 Artes y humanidades ",
+    "campo_especifico": "3 Idiomas",
+    "campo_detallado": "1 Idiomas",
+    "carrera": "C Intérprete de Lenguas Amazónicas",
+    "titulacion": "01 Licenciado/a en Intérprete de Lenguas Amazónicas"
+  },
+  {
+    "campo_amplio": "02 Artes y humanidades ",
+    "campo_especifico": "3 Idiomas",
+    "campo_detallado": "2 Literatura y lingüística",
+    "carrera": "A Literatura",
+    "titulacion": "01 Licenciado/a en Literatura"
+  },
+  {
+    "campo_amplio": "02 Artes y humanidades ",
+    "campo_especifico": "3 Idiomas",
+    "campo_detallado": "2 Literatura y lingüística",
+    "carrera": "B Lingüística",
+    "titulacion": "01 Licenciado/a en Lingüística"
+  },
+  {
+    "campo_amplio": "03 Ciencias sociales, periodismo e información ",
+    "campo_especifico": "1 Ciencias sociales y del comportamiento",
+    "campo_detallado": "1 Economía",
+    "carrera": "A Economía",
+    "titulacion": "01 Economista"
+  },
+  {
+    "campo_amplio": "03 Ciencias sociales, periodismo e información ",
+    "campo_especifico": "1 Ciencias sociales y del comportamiento",
+    "campo_detallado": "1 Economía",
+    "carrera": "B Economía Internacional",
+    "titulacion": "01 Economista en Economía Internacional"
+  },
+  {
+    "campo_amplio": "03 Ciencias sociales, periodismo e información ",
+    "campo_especifico": "1 Ciencias sociales y del comportamiento",
+    "campo_detallado": "1 Economía",
+    "carrera": "C Economía Agrícola",
+    "titulacion": "01 Economista Agrícola"
+  },
+  {
+    "campo_amplio": "03 Ciencias sociales, periodismo e información ",
+    "campo_especifico": "1 Ciencias sociales y del comportamiento",
+    "campo_detallado": "2 Ciencias políticas",
+    "carrera": "A Ciencias Políticas",
+    "titulacion": "01 Licenciado/a en Ciencias Políticas"
+  },
+  {
+    "campo_amplio": "03 Ciencias sociales, periodismo e información ",
+    "campo_especifico": "1 Ciencias sociales y del comportamiento",
+    "campo_detallado": "2 Ciencias políticas",
+    "carrera": "B Relaciones Internacionales",
+    "titulacion": "01 Licenciado/a en Relaciones Internacionales"
+  },
+  {
+    "campo_amplio": "03 Ciencias sociales, periodismo e información ",
+    "campo_especifico": "1 Ciencias sociales y del comportamiento",
+    "campo_detallado": "2 Ciencias políticas",
+    "carrera": "C Desarrollo Local",
+    "titulacion": "01 Licenciado/a en Desarrollo Local"
+  },
+  {
+    "campo_amplio": "03 Ciencias sociales, periodismo e información ",
+    "campo_especifico": "1 Ciencias sociales y del comportamiento",
+    "campo_detallado": "2 Ciencias políticas",
+    "carrera": "D Gestión Social y Desarrollo",
+    "titulacion": "01 Licenciado/a en Gestión Social y Desarrollo"
+  },
+  {
+    "campo_amplio": "03 Ciencias sociales, periodismo e información ",
+    "campo_especifico": "1 Ciencias sociales y del comportamiento",
+    "campo_detallado": "2 Ciencias políticas",
+    "carrera": "E Gestión Pública y Desarrollo",
+    "titulacion": "01 Licenciado/a en Gestión Pública y Desarrollo"
+  },
+  {
+    "campo_amplio": "03 Ciencias sociales, periodismo e información ",
+    "campo_especifico": "1 Ciencias sociales y del comportamiento",
+    "campo_detallado": "2 Ciencias políticas",
+    "carrera": "F Ciencias Políticas y Relaciones Internacionales",
+    "titulacion": "01 Licenciado/a en Ciencias Políticas y Relaciones Internacionales"
+  },
+  {
+    "campo_amplio": "03 Ciencias sociales, periodismo e información ",
+    "campo_especifico": "1 Ciencias sociales y del comportamiento",
+    "campo_detallado": "2 Ciencias políticas",
+    "carrera": "G Ciencias Políticas y Gobernanza",
+    "titulacion": "01 Licenciado/a en Ciencias Políticas y Gobernanza"
+  },
+  {
+    "campo_amplio": "03 Ciencias sociales, periodismo e información ",
+    "campo_especifico": "1 Ciencias sociales y del comportamiento",
+    "campo_detallado": "3 Psicología",
+    "carrera": "A Psicología Educativa",
+    "titulacion": "01 Licenciado/a en Psicología Educativa"
+  },
+  {
+    "campo_amplio": "03 Ciencias sociales, periodismo e información ",
+    "campo_especifico": "1 Ciencias sociales y del comportamiento",
+    "campo_detallado": "3 Psicología",
+    "carrera": "B Psicología Organizacional",
+    "titulacion": "01 Licenciado/a en Psicología Organizacional"
+  },
+  {
+    "campo_amplio": "03 Ciencias sociales, periodismo e información ",
+    "campo_especifico": "1 Ciencias sociales y del comportamiento",
+    "campo_detallado": "3 Psicología",
+    "carrera": "C Psicología Social",
+    "titulacion": "01 Licenciado/a en Psicología Social"
+  },
+  {
+    "campo_amplio": "03 Ciencias sociales, periodismo e información ",
+    "campo_especifico": "1 Ciencias sociales y del comportamiento",
+    "campo_detallado": "4 Estudios sociales y culturales",
+    "carrera": "A Estudios Culturales",
+    "titulacion": "01 Licenciado/a en Estudios Culturales"
+  },
+  {
+    "campo_amplio": "03 Ciencias sociales, periodismo e información ",
+    "campo_especifico": "1 Ciencias sociales y del comportamiento",
+    "campo_detallado": "4 Estudios sociales y culturales",
+    "carrera": "B Sociología",
+    "titulacion": "01 Licenciado/a en Sociología"
+  },
+  {
+    "campo_amplio": "03 Ciencias sociales, periodismo e información ",
+    "campo_especifico": "1 Ciencias sociales y del comportamiento",
+    "campo_detallado": "4 Estudios sociales y culturales",
+    "carrera": "C Antropología",
+    "titulacion": "01 Licenciado/a en Antropología"
+  },
+  {
+    "campo_amplio": "03 Ciencias sociales, periodismo e información ",
+    "campo_especifico": "1 Ciencias sociales y del comportamiento",
+    "campo_detallado": "4 Estudios sociales y culturales",
+    "carrera": "D Orientación Familiar",
+    "titulacion": "01 Licenciado/a en Orientación Familiar"
+  },
+  {
+    "campo_amplio": "03 Ciencias sociales, periodismo e información ",
+    "campo_especifico": "1 Ciencias sociales y del comportamiento",
+    "campo_detallado": "4 Estudios sociales y culturales",
+    "carrera": "E Artes Liberales",
+    "titulacion": "01 Licenciado/a en Artes Liberales"
+  },
+  {
+    "campo_amplio": "03 Ciencias sociales, periodismo e información ",
+    "campo_especifico": "1 Ciencias sociales y del comportamiento",
+    "campo_detallado": "4 Estudios sociales y culturales",
+    "carrera": "F Estudios Internacionales",
+    "titulacion": "01 Licenciado/a en Estudios Internacionales"
+  },
+  {
+    "campo_amplio": "03 Ciencias sociales, periodismo e información ",
+    "campo_especifico": "1 Ciencias sociales y del comportamiento",
+    "campo_detallado": "4 Estudios sociales y culturales",
+    "carrera": "G Lengua y Cultura",
+    "titulacion": "01 Licenciado/a en Lengua y Cultura"
+  },
+  {
+    "campo_amplio": "03 Ciencias sociales, periodismo e información ",
+    "campo_especifico": "1 Ciencias sociales y del comportamiento",
+    "campo_detallado": "4 Estudios sociales y culturales",
+    "carrera": "H Saberes Ancestrales en Alimentación Intercultural",
+    "titulacion": "01 Licenciado/a en Saberes Ancestrales en Alimentación Intercultural y Comunitaria"
+  },
+  {
+    "campo_amplio": "03 Ciencias sociales, periodismo e información ",
+    "campo_especifico": "1 Ciencias sociales y del comportamiento",
+    "campo_detallado": "4 Estudios sociales y culturales",
+    "carrera": "I Trabajo Social",
+    "titulacion": "01 Licenciado/a en Trabajo Social"
+  },
+  {
+    "campo_amplio": "03 Ciencias sociales, periodismo e información ",
+    "campo_especifico": "1 Ciencias sociales y del comportamiento",
+    "campo_detallado": "81 Estudios de género",
+    "carrera": "A Género y Desarrollo",
+    "titulacion": "01 Licenciado/a en Género y Desarrollo"
+  },
+  {
+    "campo_amplio": "03 Ciencias sociales, periodismo e información ",
+    "campo_especifico": "1 Ciencias sociales y del comportamiento",
+    "campo_detallado": "82 Geografía y territorio",
+    "carrera": "A Geografía y Territorio",
+    "titulacion": "01 Licenciado/a en Geografía y Territorio"
+  },
+  {
+    "campo_amplio": "03 Ciencias sociales, periodismo e información ",
+    "campo_especifico": "1 Ciencias sociales y del comportamiento",
+    "campo_detallado": "83 Estudios socioambientales",
+    "carrera": "A Gestión Comunitaria del Agua",
+    "titulacion": "01 Licenciado/a en Gestión Comunitaria del Agua"
+  },
+  {
+    "campo_amplio": "03 Ciencias sociales, periodismo e información ",
+    "campo_especifico": "1 Ciencias sociales y del comportamiento",
+    "campo_detallado": "84 Desarrollo territorial rural",
+    "carrera": "A Crear carrera",
+    "titulacion": "01 Crear titulación"
+  },
+  {
+    "campo_amplio": "03 Ciencias sociales, periodismo e información ",
+    "campo_especifico": "1 Ciencias sociales y del comportamiento",
+    "campo_detallado": "85 Economía matemática",
+    "carrera": "A Economía Matemática",
+    "titulacion": "01 Licenciado/a en Economía Matemática"
+  },
+  {
+    "campo_amplio": "03 Ciencias sociales, periodismo e información ",
+    "campo_especifico": "2 Periodismo e información",
+    "campo_detallado": "1 Periodismo y comunicación",
+    "carrera": "A Periodismo",
+    "titulacion": "01 Licenciado/a en Periodismo"
+  },
+  {
+    "campo_amplio": "03 Ciencias sociales, periodismo e información ",
+    "campo_especifico": "2 Periodismo e información",
+    "campo_detallado": "1 Periodismo y comunicación",
+    "carrera": "B Comunicación",
+    "titulacion": "01 Licenciado/a en Comunicación"
+  },
+  {
+    "campo_amplio": "03 Ciencias sociales, periodismo e información ",
+    "campo_especifico": "2 Periodismo e información",
+    "campo_detallado": "1 Periodismo y comunicación",
+    "carrera": "C Comunicación y Gestión de Moda",
+    "titulacion": "01 Licenciado/a en Comunicación y Gestión de Moda"
+  },
+  {
+    "campo_amplio": "03 Ciencias sociales, periodismo e información ",
+    "campo_especifico": "2 Periodismo e información",
+    "campo_detallado": "1 Periodismo y comunicación",
+    "carrera": "D Audiencias Digitales",
+    "titulacion": "01 Licenciado/a en Audiencias Digitales"
+  },
+  {
+    "campo_amplio": "03 Ciencias sociales, periodismo e información ",
+    "campo_especifico": "2 Periodismo e información",
+    "campo_detallado": "1 Periodismo y comunicación",
+    "carrera": "E Gestión de Medios y Contenidos",
+    "titulacion": "01 Licenciado/a en Gestión de Medios y Contenidos"
+  },
+  {
+    "campo_amplio": "03 Ciencias sociales, periodismo e información ",
+    "campo_especifico": "2 Periodismo e información",
+    "campo_detallado": "1 Periodismo y comunicación",
+    "carrera": "F Comunicación Corporativa y Relaciones Públicas",
+    "titulacion": "01 Licenciado/a en Comunicación Corporativa y Relaciones Públicas"
+  },
+  {
+    "campo_amplio": "03 Ciencias sociales, periodismo e información ",
+    "campo_especifico": "2 Periodismo e información",
+    "campo_detallado": "1 Periodismo y comunicación",
+    "carrera": "G Comunicación, Periodismo y Prod. Multimedia",
+    "titulacion": "01 Licenciado/a en Comunicación, Periodismo y Producción Multimedia"
+  },
+  {
+    "campo_amplio": "03 Ciencias sociales, periodismo e información ",
+    "campo_especifico": "2 Periodismo e información",
+    "campo_detallado": "1 Periodismo y comunicación",
+    "carrera": "H Relaciones Públicas y Producción de Eventos",
+    "titulacion": "01 Licenciado/a en Relaciones Públicas y Producción de Eventos"
+  },
+  {
+    "campo_amplio": "03 Ciencias sociales, periodismo e información ",
+    "campo_especifico": "2 Periodismo e información",
+    "campo_detallado": "1 Periodismo y comunicación",
+    "carrera": "I Gestión de Medios Digitales",
+    "titulacion": "01 Licenciado/a en Gestión de Medios Digitales"
+  },
+  {
+    "campo_amplio": "03 Ciencias sociales, periodismo e información ",
+    "campo_especifico": "2 Periodismo e información",
+    "campo_detallado": "2 Bibliotecología, documentación y archivología",
+    "carrera": "A Bibliotecología, Documentación y Archivo",
+    "titulacion": "01 Licenciado/a en Bibliotecología, Documentación y Archivo"
+  },
+  {
+    "campo_amplio": "04 Administración de empresas y derecho ",
+    "campo_especifico": "1 Educación comercial y administración",
+    "campo_detallado": "1 Contabilidad y auditoría",
+    "carrera": "A Contabilidad y Auditoría",
+    "titulacion": "01 Licenciado/a en Contabilidad y Auditoría"
+  },
+  {
+    "campo_amplio": "04 Administración de empresas y derecho ",
+    "campo_especifico": "1 Educación comercial y administración",
+    "campo_detallado": "1 Contabilidad y auditoría",
+    "carrera": "B Auditoría y Control de Gestión",
+    "titulacion": "01 Licenciado/a en Auditoría y Control de Gestión"
+  },
+  {
+    "campo_amplio": "04 Administración de empresas y derecho ",
+    "campo_especifico": "1 Educación comercial y administración",
+    "campo_detallado": "1 Contabilidad y auditoría",
+    "carrera": "C Auditoría y Gestión Contable Informatizada",
+    "titulacion": "01 Licenciado/a en Auditoría y Gestión Contable Informatizada"
+  },
+  {
+    "campo_amplio": "04 Administración de empresas y derecho ",
+    "campo_especifico": "1 Educación comercial y administración",
+    "campo_detallado": "2 Gestión financiera",
+    "carrera": "A Finanzas",
+    "titulacion": "01 Licenciado/a en Finanzas"
+  },
+  {
+    "campo_amplio": "04 Administración de empresas y derecho ",
+    "campo_especifico": "1 Educación comercial y administración",
+    "campo_detallado": "2 Gestión financiera",
+    "carrera": "B Finanzas y Negocios Digitales",
+    "titulacion": "01 Licenciado/a en Finanzas y Negocios Digitales"
+  },
+  {
+    "campo_amplio": "04 Administración de empresas y derecho ",
+    "campo_especifico": "1 Educación comercial y administración",
+    "campo_detallado": "3 Administración",
+    "carrera": "A Administración Pública",
+    "titulacion": "01 Licenciado/a en Administración Pública"
+  },
+  {
+    "campo_amplio": "04 Administración de empresas y derecho ",
+    "campo_especifico": "1 Educación comercial y administración",
+    "campo_detallado": "3 Administración",
+    "carrera": "B Administración de Empresas",
+    "titulacion": "01 Licenciado/a en Administración de Empresas"
+  },
+  {
+    "campo_amplio": "04 Administración de empresas y derecho ",
+    "campo_especifico": "1 Educación comercial y administración",
+    "campo_detallado": "3 Administración",
+    "carrera": "C Emprendimiento e Innovación Social",
+    "titulacion": "01 Licenciado/a en Emprendimiento e Innovación Social"
+  },
+  {
+    "campo_amplio": "04 Administración de empresas y derecho ",
+    "campo_especifico": "1 Educación comercial y administración",
+    "campo_detallado": "3 Administración",
+    "carrera": "D Agronegocios",
+    "titulacion": "01 Licenciado/a en Agronegocios"
+  },
+  {
+    "campo_amplio": "04 Administración de empresas y derecho ",
+    "campo_especifico": "1 Educación comercial y administración",
+    "campo_detallado": "3 Administración",
+    "carrera": "E Negocios Digitales",
+    "titulacion": "01 Licenciado/a en Negocios Digitales"
+  },
+  {
+    "campo_amplio": "04 Administración de empresas y derecho ",
+    "campo_especifico": "1 Educación comercial y administración",
+    "campo_detallado": "3 Administración",
+    "carrera": "F Gestión Cultural",
+    "titulacion": "01 Licenciado/a en Gestión Cultural"
+  },
+  {
+    "campo_amplio": "04 Administración de empresas y derecho ",
+    "campo_especifico": "1 Educación comercial y administración",
+    "campo_detallado": "3 Administración",
+    "carrera": "G Desarrollo del Emprendimiento",
+    "titulacion": "01 Licenciado/a en Desarrollo del Emprendimiento"
+  },
+  {
+    "campo_amplio": "04 Administración de empresas y derecho ",
+    "campo_especifico": "1 Educación comercial y administración",
+    "campo_detallado": "3 Administración",
+    "carrera": "H Gestión de la Innovación y Productividad",
+    "titulacion": "01 Licenciado/a en Gestión de la Innovación Organizacional y Productividad"
+  },
+  {
+    "campo_amplio": "04 Administración de empresas y derecho ",
+    "campo_especifico": "1 Educación comercial y administración",
+    "campo_detallado": "3 Administración",
+    "carrera": "I Gestión de la Cadena de Suministro",
+    "titulacion": "01 Licenciado/a en Gestión de la Cadena de Suministro"
+  },
+  {
+    "campo_amplio": "04 Administración de empresas y derecho ",
+    "campo_especifico": "1 Educación comercial y administración",
+    "campo_detallado": "3 Administración",
+    "carrera": "J Gestión Empresarial",
+    "titulacion": "01 Licenciado/a en Gestión Empresarial"
+  },
+  {
+    "campo_amplio": "04 Administración de empresas y derecho ",
+    "campo_especifico": "1 Educación comercial y administración",
+    "campo_detallado": "3 Administración",
+    "carrera": "K Emprendimiento e Innovación",
+    "titulacion": "01 Licenciado/a en Emprendimiento e Innovación"
+  },
+  {
+    "campo_amplio": "04 Administración de empresas y derecho ",
+    "campo_especifico": "1 Educación comercial y administración",
+    "campo_detallado": "3 Administración",
+    "carrera": "L Negocios Deportivos",
+    "titulacion": "01 Licenciado/a en Negocios Deportivos"
+  },
+  {
+    "campo_amplio": "04 Administración de empresas y derecho ",
+    "campo_especifico": "1 Educación comercial y administración",
+    "campo_detallado": "4 Marketing y publicidad",
+    "carrera": "A Marketing",
+    "titulacion": "01 Licenciado/a en Marketing"
+  },
+  {
+    "campo_amplio": "04 Administración de empresas y derecho ",
+    "campo_especifico": "1 Educación comercial y administración",
+    "campo_detallado": "4 Marketing y publicidad",
+    "carrera": "B Marketing Digital",
+    "titulacion": "01 Licenciado/a en Marketing Digital"
+  },
+  {
+    "campo_amplio": "04 Administración de empresas y derecho ",
+    "campo_especifico": "1 Educación comercial y administración",
+    "campo_detallado": "4 Marketing y publicidad",
+    "carrera": "C Marketing e Inteligencia de Mercados",
+    "titulacion": "01 Licenciado/a en Marketing e Inteligencia de Mercados"
+  },
+  {
+    "campo_amplio": "04 Administración de empresas y derecho ",
+    "campo_especifico": "1 Educación comercial y administración",
+    "campo_detallado": "4 Marketing y publicidad",
+    "carrera": "D Publicidad",
+    "titulacion": "01 Licenciado/a en Publicidad"
+  },
+  {
+    "campo_amplio": "04 Administración de empresas y derecho ",
+    "campo_especifico": "1 Educación comercial y administración",
+    "campo_detallado": "4 Marketing y publicidad",
+    "carrera": "E Marketing y Transmedia",
+    "titulacion": "01 Licenciado/a en Marketing y Transmedia"
+  },
+  {
+    "campo_amplio": "04 Administración de empresas y derecho ",
+    "campo_especifico": "1 Educación comercial y administración",
+    "campo_detallado": "5 Información gerencial",
+    "carrera": "A Gestión de la Información Gerencial",
+    "titulacion": "01 Licenciado/a en Gestión de la Información Gerencial"
+  },
+  {
+    "campo_amplio": "04 Administración de empresas y derecho ",
+    "campo_especifico": "1 Educación comercial y administración",
+    "campo_detallado": "5 Información gerencial",
+    "carrera": "B Gerencia y Liderazgo",
+    "titulacion": "01 Licenciado/a en Gerencia y Liderazgo"
+  },
+  {
+    "campo_amplio": "04 Administración de empresas y derecho ",
+    "campo_especifico": "1 Educación comercial y administración",
+    "campo_detallado": "5 Información gerencial",
+    "carrera": "C Gestión de la Inteligencia de Negocios",
+    "titulacion": "01 Licenciado/a en Gestión de la Inteligencia de Negocios"
+  },
+  {
+    "campo_amplio": "04 Administración de empresas y derecho ",
+    "campo_especifico": "1 Educación comercial y administración",
+    "campo_detallado": "6 Comercio",
+    "carrera": "A Comercio",
+    "titulacion": "01 Licenciado/a en Comercio"
+  },
+  {
+    "campo_amplio": "04 Administración de empresas y derecho ",
+    "campo_especifico": "1 Educación comercial y administración",
+    "campo_detallado": "6 Comercio",
+    "carrera": "B Comercio Exterior",
+    "titulacion": "01 Licenciado/a en Comercio Exterior"
+  },
+  {
+    "campo_amplio": "04 Administración de empresas y derecho ",
+    "campo_especifico": "1 Educación comercial y administración",
+    "campo_detallado": "6 Comercio",
+    "carrera": "C Biocomercio",
+    "titulacion": "01 Licenciado/a en Biocomercio"
+  },
+  {
+    "campo_amplio": "04 Administración de empresas y derecho ",
+    "campo_especifico": "1 Educación comercial y administración",
+    "campo_detallado": "6 Comercio",
+    "carrera": "D Puertos y Aduanas",
+    "titulacion": "01 Licenciado/a en Puertos y Aduanas"
+  },
+  {
+    "campo_amplio": "04 Administración de empresas y derecho ",
+    "campo_especifico": "1 Educación comercial y administración",
+    "campo_detallado": "7 Competencias laborales",
+    "carrera": "A Gestión del Talento Humano",
+    "titulacion": "01 Licenciado/a en Gestión del Talento Humano"
+  },
+  {
+    "campo_amplio": "04 Administración de empresas y derecho ",
+    "campo_especifico": "1 Educación comercial y administración",
+    "campo_detallado": "7 Competencias laborales",
+    "carrera": "B Administración Int. de Recursos Humanos",
+    "titulacion": "01 Licenciado/a en Administración Internacional de Recursos Humanos"
+  },
+  {
+    "campo_amplio": "04 Administración de empresas y derecho ",
+    "campo_especifico": "1 Educación comercial y administración",
+    "campo_detallado": "7 Competencias laborales",
+    "carrera": "E Gestión Comercial",
+    "titulacion": "01 Licenciado/a en Gestión Comercial"
+  },
+  {
+    "campo_amplio": "04 Administración de empresas y derecho ",
+    "campo_especifico": "1 Educación comercial y administración",
+    "campo_detallado": "81 Negocios internacionales",
+    "carrera": "A Negocios Internacionales",
+    "titulacion": "01 Licenciado/a en Negocios Internacionales"
+  },
+  {
+    "campo_amplio": "04 Administración de empresas y derecho ",
+    "campo_especifico": "1 Educación comercial y administración",
+    "campo_detallado": "82 Gestión de la ciencia y la tecnología",
+    "carrera": "A Gestión Tecnológica",
+    "titulacion": "01 Licenciado/a en Gestión Tecnológica"
+  },
+  {
+    "campo_amplio": "04 Administración de empresas y derecho ",
+    "campo_especifico": "1 Educación comercial y administración",
+    "campo_detallado": "83 Contabilidad y Finanzas",
+    "carrera": "A Contabilidad y Finanzas",
+    "titulacion": "01 Licenciado/a en Contabilidad y Finanzas"
+  },
+  {
+    "campo_amplio": "04 Administración de empresas y derecho ",
+    "campo_especifico": "2 Derecho",
+    "campo_detallado": "1 Derecho",
+    "carrera": "A Derecho",
+    "titulacion": "01 Abogado/a"
+  },
+  {
+    "campo_amplio": "04 Administración de empresas y derecho ",
+    "campo_especifico": "2 Derecho",
+    "campo_detallado": "1 Derecho",
+    "carrera": "B Derecho con Enfoque de Pluralismo Jurídico",
+    "titulacion": "01 Abogado/a con Enfoque de Pluralismo Jurídico"
+  },
+  {
+    "campo_amplio": "04 Administración de empresas y derecho ",
+    "campo_especifico": "2 Derecho",
+    "campo_detallado": "1 Derecho",
+    "carrera": "C Criminología y Ciencias Forenses",
+    "titulacion": "01 Licenciado/a en Criminología y Ciencias Forenses"
+  },
+  {
+    "campo_amplio": "04 Administración de empresas y derecho ",
+    "campo_especifico": "2 Derecho",
+    "campo_detallado": "81 Derechos humanos",
+    "carrera": "A Crear carrera",
+    "titulacion": "01 Crear titulación"
+  },
+  {
+    "campo_amplio": "05 Ciencias naturales, matemáticas y estadística ",
+    "campo_especifico": "1 Ciencias biológicas y afines",
+    "campo_detallado": "1 Biología",
+    "carrera": "A Biología",
+    "titulacion": "01 Biólogo/a"
+  },
+  {
+    "campo_amplio": "05 Ciencias naturales, matemáticas y estadística ",
+    "campo_especifico": "1 Ciencias biológicas y afines",
+    "campo_detallado": "1 Biología",
+    "carrera": "B Biotecnología",
+    "titulacion": "01 Ingeniero/a Biotecnólogo/a"
+  },
+  {
+    "campo_amplio": "05 Ciencias naturales, matemáticas y estadística ",
+    "campo_especifico": "1 Ciencias biológicas y afines",
+    "campo_detallado": "1 Biología",
+    "carrera": "C Microbiología",
+    "titulacion": "01 Licenciado/a en Microbiología"
+  },
+  {
+    "campo_amplio": "05 Ciencias naturales, matemáticas y estadística ",
+    "campo_especifico": "1 Ciencias biológicas y afines",
+    "campo_detallado": "1 Biología",
+    "carrera": "D Biología Marina",
+    "titulacion": "01 Biólogo/a Marino/a"
+  },
+  {
+    "campo_amplio": "05 Ciencias naturales, matemáticas y estadística ",
+    "campo_especifico": "1 Ciencias biológicas y afines",
+    "campo_detallado": "2 Bioquímica",
+    "carrera": "A Bioquímica",
+    "titulacion": "01 Bioquímico/a"
+  },
+  {
+    "campo_amplio": "05 Ciencias naturales, matemáticas y estadística ",
+    "campo_especifico": "1 Ciencias biológicas y afines",
+    "campo_detallado": "81 Biofísica",
+    "carrera": "A Biofísica",
+    "titulacion": "01 Licenciado/a en Biofísica"
+  },
+  {
+    "campo_amplio": "05 Ciencias naturales, matemáticas y estadística ",
+    "campo_especifico": "1 Ciencias biológicas y afines",
+    "campo_detallado": "82 Biofarmacéutica",
+    "carrera": "A Biofarmacéutica",
+    "titulacion": "01 Licenciado/a en Biofarmacéutica"
+  },
+  {
+    "campo_amplio": "05 Ciencias naturales, matemáticas y estadística ",
+    "campo_especifico": "1 Ciencias biológicas y afines",
+    "campo_detallado": "83 Biomedicina",
+    "carrera": "A Biomedicina",
+    "titulacion": "01 Ingeniero/a Biomédico/a"
+  },
+  {
+    "campo_amplio": "05 Ciencias naturales, matemáticas y estadística ",
+    "campo_especifico": "1 Ciencias biológicas y afines",
+    "campo_detallado": "84 Genética",
+    "carrera": "A Genética",
+    "titulacion": "01 Ingeniero/a Genético/a"
+  },
+  {
+    "campo_amplio": "05 Ciencias naturales, matemáticas y estadística ",
+    "campo_especifico": "1 Ciencias biológicas y afines",
+    "campo_detallado": "85 Biodiversidad",
+    "carrera": "A Biodiversidad y Recursos Genéticos",
+    "titulacion": "01 Ingeniero/a en Biodiversidad y Recursos Genéticos"
+  },
+  {
+    "campo_amplio": "05 Ciencias naturales, matemáticas y estadística ",
+    "campo_especifico": "1 Ciencias biológicas y afines",
+    "campo_detallado": "86 Neurociencias",
+    "carrera": "A Neurociencias",
+    "titulacion": "01 Licenciado/a en Neurociencias"
+  },
+  {
+    "campo_amplio": "05 Ciencias naturales, matemáticas y estadística ",
+    "campo_especifico": "2 Medio ambiente",
+    "campo_detallado": "1 Ciencias del medio ambiente",
+    "carrera": "A Ecología",
+    "titulacion": "01 Licenciado/a en Ecología"
+  },
+  {
+    "campo_amplio": "05 Ciencias naturales, matemáticas y estadística ",
+    "campo_especifico": "2 Medio ambiente",
+    "campo_detallado": "1 Ciencias del medio ambiente",
+    "carrera": "B Ecosistemas",
+    "titulacion": "01 Ingeniero/a en Ecosistemas"
+  },
+  {
+    "campo_amplio": "05 Ciencias naturales, matemáticas y estadística ",
+    "campo_especifico": "2 Medio ambiente",
+    "campo_detallado": "1 Ciencias del medio ambiente",
+    "carrera": "C Ecología y Conservación Ambiental",
+    "titulacion": "01 Licenciado/a en Ecología y Conservación Ambiental"
+  },
+  {
+    "campo_amplio": "05 Ciencias naturales, matemáticas y estadística ",
+    "campo_especifico": "2 Medio ambiente",
+    "campo_detallado": "1 Ciencias del medio ambiente",
+    "carrera": "D Gestión Ambiental",
+    "titulacion": "01 Licenciado/a en Gestión Ambiental"
+  },
+  {
+    "campo_amplio": "05 Ciencias naturales, matemáticas y estadística ",
+    "campo_especifico": "2 Medio ambiente",
+    "campo_detallado": "2 Recursos naturales renovables",
+    "carrera": "A Recursos Naturales Renovables",
+    "titulacion": "01 Ingeniero/a en Recursos Naturales Renovables"
+  },
+  {
+    "campo_amplio": "05 Ciencias naturales, matemáticas y estadística ",
+    "campo_especifico": "2 Medio ambiente",
+    "campo_detallado": "2 Recursos naturales renovables",
+    "carrera": "B Ingeniería en Energías Renovables",
+    "titulacion": "01 Ingeniero/a en Energías Renovables"
+  },
+  {
+    "campo_amplio": "05 Ciencias naturales, matemáticas y estadística ",
+    "campo_especifico": "3 Ciencias físicas",
+    "campo_detallado": "1 Química",
+    "carrera": "A Química",
+    "titulacion": "01 Químico/a"
+  },
+  {
+    "campo_amplio": "05 Ciencias naturales, matemáticas y estadística ",
+    "campo_especifico": "3 Ciencias físicas",
+    "campo_detallado": "2 Ciencias de la tierra",
+    "carrera": "A Geología",
+    "titulacion": "01 Geólogo/a / 02 Ingeniero/a Geólogo/a"
+  },
+  {
+    "campo_amplio": "05 Ciencias naturales, matemáticas y estadística ",
+    "campo_especifico": "3 Ciencias físicas",
+    "campo_detallado": "2 Ciencias de la tierra",
+    "carrera": "B Geografía",
+    "titulacion": "01 Ingeniero/a Geógrafo/a"
+  },
+  {
+    "campo_amplio": "05 Ciencias naturales, matemáticas y estadística ",
+    "campo_especifico": "3 Ciencias físicas",
+    "campo_detallado": "2 Ciencias de la tierra",
+    "carrera": "C Hidrología",
+    "titulacion": "01 Ingeniero/a Hidrólogo/a / 02 Ciencias del Agua"
+  },
+  {
+    "campo_amplio": "05 Ciencias naturales, matemáticas y estadística ",
+    "campo_especifico": "3 Ciencias físicas",
+    "campo_detallado": "2 Ciencias de la tierra",
+    "carrera": "D Meteorología",
+    "titulacion": "01 Ingeniero/a Meteorólogo/a"
+  },
+  {
+    "campo_amplio": "05 Ciencias naturales, matemáticas y estadística ",
+    "campo_especifico": "3 Ciencias físicas",
+    "campo_detallado": "2 Ciencias de la tierra",
+    "carrera": "E Oceanografía",
+    "titulacion": "01 Ingeniero/a Oceanográfico/a"
+  },
+  {
+    "campo_amplio": "05 Ciencias naturales, matemáticas y estadística ",
+    "campo_especifico": "3 Ciencias físicas",
+    "campo_detallado": "2 Ciencias de la tierra",
+    "carrera": "F Geotecnia",
+    "titulacion": "01 Ingeniero/a en Geotecnia"
+  },
+  {
+    "campo_amplio": "05 Ciencias naturales, matemáticas y estadística ",
+    "campo_especifico": "3 Ciencias físicas",
+    "campo_detallado": "2 Ciencias de la tierra",
+    "carrera": "G Tecnologías Geoespaciales",
+    "titulacion": "01 Ingeniero/a en Tecnologías Geoespaciales"
+  },
+  {
+    "campo_amplio": "05 Ciencias naturales, matemáticas y estadística ",
+    "campo_especifico": "3 Ciencias físicas",
+    "campo_detallado": "2 Ciencias de la tierra",
+    "carrera": "H Geociencias",
+    "titulacion": "01 Ingeniero/a en Geociencias"
+  },
+  {
+    "campo_amplio": "05 Ciencias naturales, matemáticas y estadística ",
+    "campo_especifico": "3 Ciencias físicas",
+    "campo_detallado": "2 Ciencias de la tierra",
+    "carrera": "I Ingeniería en Riesgos de Desastres",
+    "titulacion": "01 Ingeniero/a en Riesgos de Desastres"
+  },
+  {
+    "campo_amplio": "05 Ciencias naturales, matemáticas y estadística ",
+    "campo_especifico": "3 Ciencias físicas",
+    "campo_detallado": "2 Ciencias de la tierra",
+    "carrera": "J Geofísica",
+    "titulacion": "01 Ingeniero/a en Geofísica"
+  },
+  {
+    "campo_amplio": "05 Ciencias naturales, matemáticas y estadística ",
+    "campo_especifico": "3 Ciencias físicas",
+    "campo_detallado": "2 Ciencias de la tierra",
+    "carrera": "K Ingeniería Geoespacial",
+    "titulacion": "01 Ingeniero/a Geoespacial"
+  },
+  {
+    "campo_amplio": "05 Ciencias naturales, matemáticas y estadística ",
+    "campo_especifico": "3 Ciencias físicas",
+    "campo_detallado": "3 Física",
+    "carrera": "A Física",
+    "titulacion": "01 Físico/a / 02 Ingeniero/a Físico/a"
+  },
+  {
+    "campo_amplio": "05 Ciencias naturales, matemáticas y estadística ",
+    "campo_especifico": "3 Ciencias físicas",
+    "campo_detallado": "4 Ciencias marítimas",
+    "carrera": "A Marítima",
+    "titulacion": "01 Ingeniero/a Marítimo/a"
+  },
+  {
+    "campo_amplio": "05 Ciencias naturales, matemáticas y estadística ",
+    "campo_especifico": "3 Ciencias físicas",
+    "campo_detallado": "5 Ciencias marinas",
+    "carrera": "A Hidrología",
+    "titulacion": "01 Ingeniero/a Hidrólogo/a / 02 Ciencias del Agua"
+  },
+  {
+    "campo_amplio": "05 Ciencias naturales, matemáticas y estadística ",
+    "campo_especifico": "3 Ciencias físicas",
+    "campo_detallado": "5 Ciencias marinas",
+    "carrera": "B Oceanografía",
+    "titulacion": "01 Ingeniero/a Oceanográfico/a"
+  },
+  {
+    "campo_amplio": "05 Ciencias naturales, matemáticas y estadística ",
+    "campo_especifico": "4 Matemáticas y estadística",
+    "campo_detallado": "1 Matemáticas",
+    "carrera": "A Matemática",
+    "titulacion": "01 Matemático/a"
+  },
+  {
+    "campo_amplio": "05 Ciencias naturales, matemáticas y estadística ",
+    "campo_especifico": "4 Matemáticas y estadística",
+    "campo_detallado": "1 Matemáticas",
+    "carrera": "B Matemática Aplicada",
+    "titulacion": "01 Ingeniero/a Matemático/a"
+  },
+  {
+    "campo_amplio": "05 Ciencias naturales, matemáticas y estadística ",
+    "campo_especifico": "4 Matemáticas y estadística",
+    "campo_detallado": "1 Matemáticas",
+    "carrera": "C Matemáticas Aplicadas y Computación",
+    "titulacion": "01 Ingeniero/a en Matemáticas Aplicadas y Computación"
+  },
+  {
+    "campo_amplio": "05 Ciencias naturales, matemáticas y estadística ",
+    "campo_especifico": "4 Matemáticas y estadística",
+    "campo_detallado": "2 Estadística",
+    "carrera": "A Estadística",
+    "titulacion": "01 Ingeniero/a Estadístico/a"
+  },
+  {
+    "campo_amplio": "05 Ciencias naturales, matemáticas y estadística ",
+    "campo_especifico": "4 Matemáticas y estadística",
+    "campo_detallado": "2 Estadística",
+    "carrera": "B Ciencia de Datos",
+    "titulacion": "01 Ingeniero/a en Ciencia de Datos"
+  },
+  {
+    "campo_amplio": "05 Ciencias naturales, matemáticas y estadística ",
+    "campo_especifico": "4 Matemáticas y estadística",
+    "campo_detallado": "81 Logística y transporte",
+    "carrera": "A Logística y Transporte",
+    "titulacion": "01 Ingeniero/a en Logística y Transporte"
+  },
+  {
+    "campo_amplio": "05 Ciencias naturales, matemáticas y estadística ",
+    "campo_especifico": "4 Matemáticas y estadística",
+    "campo_detallado": "81 Logística y transporte",
+    "carrera": "B Náutica y Operaciones Marítimas",
+    "titulacion": "01 Ingeniero/a en Náutica y Operaciones Marítimas"
+  },
+  {
+    "campo_amplio": "06 TIC ",
+    "campo_especifico": "1 Tecnologías de la información y la comunicación (TIC)",
+    "campo_detallado": "1 Ciencias computacionales",
+    "carrera": "A Computación",
+    "titulacion": "01 Ingeniero/a en Computación / 02 Ciencias de la Computación"
+  },
+  {
+    "campo_amplio": "06 TIC ",
+    "campo_especifico": "1 Tecnologías de la información y la comunicación (TIC)",
+    "campo_detallado": "1 Ciencias computacionales",
+    "carrera": "B Sistemas Inteligentes",
+    "titulacion": "01 Ingeniero/a en Sistemas Inteligentes"
+  },
+  {
+    "campo_amplio": "06 TIC ",
+    "campo_especifico": "1 Tecnologías de la información y la comunicación (TIC)",
+    "campo_detallado": "1 Ciencias computacionales",
+    "carrera": "C Sistemas Biomédicos",
+    "titulacion": "01 Ingeniero/a en Sistemas Biomédicos"
+  },
+  {
+    "campo_amplio": "06 TIC ",
+    "campo_especifico": "1 Tecnologías de la información y la comunicación (TIC)",
+    "campo_detallado": "1 Ciencias computacionales",
+    "carrera": "D Ciberseguridad",
+    "titulacion": "01 Ingeniero/a en Ciberseguridad"
+  },
+  {
+    "campo_amplio": "06 TIC ",
+    "campo_especifico": "1 Tecnologías de la información y la comunicación (TIC)",
+    "campo_detallado": "1 Ciencias computacionales",
+    "carrera": "E Ciencia de Datos e Inteligencia Artificial",
+    "titulacion": "01 Ingeniero/a en Ciencia de Datos e Inteligencia Artificial"
+  },
+  {
+    "campo_amplio": "06 TIC ",
+    "campo_especifico": "1 Tecnologías de la información y la comunicación (TIC)",
+    "campo_detallado": "1 Ciencias computacionales",
+    "carrera": "F Transformación Digital de Negocios",
+    "titulacion": "01 Ingeniero/a en Transformación Digital de Negocios"
+  },
+  {
+    "campo_amplio": "06 TIC ",
+    "campo_especifico": "1 Tecnologías de la información y la comunicación (TIC)",
+    "campo_detallado": "1 Ciencias computacionales",
+    "carrera": "G Sistemas Computacionales",
+    "titulacion": "01 Ingeniero/a en Sistemas Computacionales"
+  },
+  {
+    "campo_amplio": "06 TIC ",
+    "campo_especifico": "1 Tecnologías de la información y la comunicación (TIC)",
+    "campo_detallado": "1 Ciencias computacionales",
+    "carrera": "H Internet de las Cosas",
+    "titulacion": "01 Ingeniero/a en Internet de las Cosas"
+  },
+  {
+    "campo_amplio": "06 TIC ",
+    "campo_especifico": "1 Tecnologías de la información y la comunicación (TIC)",
+    "campo_detallado": "2 Diseño y adm. de redes y bases de datos",
+    "carrera": "A Tecnologías de la Información",
+    "titulacion": "01 Ingeniero/a en Tecnologías de la Información"
+  },
+  {
+    "campo_amplio": "06 TIC ",
+    "campo_especifico": "1 Tecnologías de la información y la comunicación (TIC)",
+    "campo_detallado": "3 Desarrollo y análisis de software",
+    "carrera": "A Software",
+    "titulacion": "01 Ingeniero/a en Software"
+  },
+  {
+    "campo_amplio": "06 TIC ",
+    "campo_especifico": "1 Tecnologías de la información y la comunicación (TIC)",
+    "campo_detallado": "3 Desarrollo y análisis de software",
+    "carrera": "B Realidad Virtual y Videojuegos",
+    "titulacion": "01 Ingeniero/a en Realidad Virtual y Videojuegos"
+  },
+  {
+    "campo_amplio": "06 TIC ",
+    "campo_especifico": "1 Tecnologías de la información y la comunicación (TIC)",
+    "campo_detallado": "3 Desarrollo y análisis de software",
+    "carrera": "C Robótica e Inteligencia Artificial",
+    "titulacion": "01 Ingeniero/a en Robótica e Inteligencia Artificial"
+  },
+  {
+    "campo_amplio": "06 TIC ",
+    "campo_especifico": "1 Tecnologías de la información y la comunicación (TIC)",
+    "campo_detallado": "3 Desarrollo y análisis de software",
+    "carrera": "D Desarrollo, Operación y Seg. de Software",
+    "titulacion": "01 Ingeniero/a en Desarrollo, Operación y Seguridad de Software"
+  },
+  {
+    "campo_amplio": "06 TIC ",
+    "campo_especifico": "1 Tecnologías de la información y la comunicación (TIC)",
+    "campo_detallado": "81 Sistemas de información",
+    "carrera": "A Sistemas de Información",
+    "titulacion": "01 Ingeniero/a en Sistemas de Información"
+  },
+  {
+    "campo_amplio": "06 TIC ",
+    "campo_especifico": "1 Tecnologías de la información y la comunicación (TIC)",
+    "campo_detallado": "81 Sistemas de información",
+    "carrera": "B Informática",
+    "titulacion": "01 Ingeniero/a en Informática"
+  },
+  {
+    "campo_amplio": "07 Ingeniería, industria y construcción ",
+    "campo_especifico": "1 Ingeniería y profesiones afines",
+    "campo_detallado": "1 Química aplicada",
+    "carrera": "A Polímeros",
+    "titulacion": "01 Ingeniero/a en Polímeros"
+  },
+  {
+    "campo_amplio": "07 Ingeniería, industria y construcción ",
+    "campo_especifico": "1 Ingeniería y profesiones afines",
+    "campo_detallado": "1 Química aplicada",
+    "carrera": "B Petroquímica",
+    "titulacion": "01 Petroquímico/a"
+  },
+  {
+    "campo_amplio": "07 Ingeniería, industria y construcción ",
+    "campo_especifico": "1 Ingeniería y profesiones afines",
+    "campo_detallado": "1 Química aplicada",
+    "carrera": "C Ingeniería Química",
+    "titulacion": "01 Ingeniero/a Químico/a"
+  },
+  {
+    "campo_amplio": "07 Ingeniería, industria y construcción ",
+    "campo_especifico": "1 Ingeniería y profesiones afines",
+    "campo_detallado": "2 Tecnologías de protección del medio ambiente",
+    "carrera": "A Ingeniería Ambiental",
+    "titulacion": "01 Ingeniero/a Ambiental"
+  },
+  {
+    "campo_amplio": "07 Ingeniería, industria y construcción ",
+    "campo_especifico": "1 Ingeniería y profesiones afines",
+    "campo_detallado": "3 Electricidad y energía",
+    "carrera": "A Electricidad",
+    "titulacion": "01 Ingeniero/a Eléctrico/a"
+  },
+  {
+    "campo_amplio": "07 Ingeniería, industria y construcción ",
+    "campo_especifico": "1 Ingeniería y profesiones afines",
+    "campo_detallado": "3 Electricidad y energía",
+    "carrera": "B Electromecánica y Energías Renovables",
+    "titulacion": "01 Ingeniero/a en Electromecánica y Energías Renovables"
+  },
+  {
+    "campo_amplio": "07 Ingeniería, industria y construcción ",
+    "campo_especifico": "1 Ingeniería y profesiones afines",
+    "campo_detallado": "4 Electrónica, automatización y sonido",
+    "carrera": "A Electrónica y Automatización",
+    "titulacion": "01 Electrónica / 02 Electrónica y Automatización"
+  },
+  {
+    "campo_amplio": "07 Ingeniería, industria y construcción ",
+    "campo_especifico": "1 Ingeniería y profesiones afines",
+    "campo_detallado": "4 Electrónica, automatización y sonido",
+    "carrera": "B Electromecánica",
+    "titulacion": "01 Ingeniero/a Electromecánico/a"
+  },
+  {
+    "campo_amplio": "07 Ingeniería, industria y construcción ",
+    "campo_especifico": "1 Ingeniería y profesiones afines",
+    "campo_detallado": "4 Electrónica, automatización y sonido",
+    "carrera": "C Sonido y Acústica",
+    "titulacion": "01 Ingeniero/a en Sonido y Acústica"
+  },
+  {
+    "campo_amplio": "07 Ingeniería, industria y construcción ",
+    "campo_especifico": "1 Ingeniería y profesiones afines",
+    "campo_detallado": "4 Electrónica, automatización y sonido",
+    "carrera": "D Telemática",
+    "titulacion": "01 Ingeniero/a en Telemática"
+  },
+  {
+    "campo_amplio": "07 Ingeniería, industria y construcción ",
+    "campo_especifico": "1 Ingeniería y profesiones afines",
+    "campo_detallado": "4 Electrónica, automatización y sonido",
+    "carrera": "E Automatización y Robótica",
+    "titulacion": "01 Ingeniero/a en Automatización y Robótica"
+  },
+  {
+    "campo_amplio": "07 Ingeniería, industria y construcción ",
+    "campo_especifico": "1 Ingeniería y profesiones afines",
+    "campo_detallado": "5 Mecánica y metalistería",
+    "carrera": "A Mecánica",
+    "titulacion": "01 Ingeniero/a Mecánico/a"
+  },
+  {
+    "campo_amplio": "07 Ingeniería, industria y construcción ",
+    "campo_especifico": "1 Ingeniería y profesiones afines",
+    "campo_detallado": "5 Mecánica y metalistería",
+    "carrera": "B Metalurgia",
+    "titulacion": "01 Ingeniero/a en Metalurgia"
+  },
+  {
+    "campo_amplio": "07 Ingeniería, industria y construcción ",
+    "campo_especifico": "1 Ingeniería y profesiones afines",
+    "campo_detallado": "6 Diseño y const. de vehículos y aeronaves",
+    "carrera": "A Ingeniería Automotriz",
+    "titulacion": "01 Ingeniero/a Automotriz"
+  },
+  {
+    "campo_amplio": "07 Ingeniería, industria y construcción ",
+    "campo_especifico": "1 Ingeniería y profesiones afines",
+    "campo_detallado": "6 Diseño y const. de vehículos y aeronaves",
+    "carrera": "B Ingeniería Naval",
+    "titulacion": "01 Ingeniero/a Naval"
+  },
+  {
+    "campo_amplio": "07 Ingeniería, industria y construcción ",
+    "campo_especifico": "1 Ingeniería y profesiones afines",
+    "campo_detallado": "6 Diseño y const. de vehículos y aeronaves",
+    "carrera": "C Ingeniería Aeronáutica",
+    "titulacion": "01 Ingeniero/a Aeronáutico/a"
+  },
+  {
+    "campo_amplio": "07 Ingeniería, industria y construcción ",
+    "campo_especifico": "1 Ingeniería y profesiones afines",
+    "campo_detallado": "6 Diseño y const. de vehículos y aeronaves",
+    "carrera": "D Ingeniería Marítima",
+    "titulacion": "01 Ingeniero/a Marítimo/a"
+  },
+  {
+    "campo_amplio": "07 Ingeniería, industria y construcción ",
+    "campo_especifico": "1 Ingeniería y profesiones afines",
+    "campo_detallado": "81 Tecnologías nucleares y energéticas",
+    "carrera": "A Tecnologías Nucleares y Energéticas",
+    "titulacion": "01 Ingeniero/a en Tecnologías Nucleares y Energéticas"
+  },
+  {
+    "campo_amplio": "07 Ingeniería, industria y construcción ",
+    "campo_especifico": "1 Ingeniería y profesiones afines",
+    "campo_detallado": "82 Mecatrónica",
+    "carrera": "A Mecatrónica",
+    "titulacion": "01 Ingeniero/a en Mecatrónica"
+  },
+  {
+    "campo_amplio": "07 Ingeniería, industria y construcción ",
+    "campo_especifico": "1 Ingeniería y profesiones afines",
+    "campo_detallado": "83 Hidráulica",
+    "carrera": "A Hidráulica",
+    "titulacion": "01 Ingeniero/a en Hidráulica"
+  },
+  {
+    "campo_amplio": "07 Ingeniería, industria y construcción ",
+    "campo_especifico": "1 Ingeniería y profesiones afines",
+    "campo_detallado": "84 Telecomunicaciones",
+    "carrera": "A Telecomunicaciones",
+    "titulacion": "01 Ingeniero/a en Telecomunicaciones"
+  },
+  {
+    "campo_amplio": "07 Ingeniería, industria y construcción ",
+    "campo_especifico": "1 Ingeniería y profesiones afines",
+    "campo_detallado": "85 Nanotecnología",
+    "carrera": "A Nanotecnología",
+    "titulacion": "01 Ingeniero/a en Nanotecnología"
+  },
+  {
+    "campo_amplio": "07 Ingeniería, industria y construcción ",
+    "campo_especifico": "2 Industria y producción",
+    "campo_detallado": "1 Procesamiento de alimentos",
+    "carrera": "A Agroindustria",
+    "titulacion": "01 Ingeniero/a Agroindustrial"
+  },
+  {
+    "campo_amplio": "07 Ingeniería, industria y construcción ",
+    "campo_especifico": "2 Industria y producción",
+    "campo_detallado": "1 Procesamiento de alimentos",
+    "carrera": "B Alimentos",
+    "titulacion": "01 Ingeniero/a en Alimentos"
+  },
+  {
+    "campo_amplio": "07 Ingeniería, industria y construcción ",
+    "campo_especifico": "2 Industria y producción",
+    "campo_detallado": "1 Procesamiento de alimentos",
+    "carrera": "C Agroindustria Alimentaria",
+    "titulacion": "01 Ingeniero/a en Agroindustria Alimentaria"
+  },
+  {
+    "campo_amplio": "07 Ingeniería, industria y construcción ",
+    "campo_especifico": "2 Industria y producción",
+    "campo_detallado": "2 Materiales",
+    "carrera": "A Materiales",
+    "titulacion": "01 Ingeniero/a en Materiales"
+  },
+  {
+    "campo_amplio": "07 Ingeniería, industria y construcción ",
+    "campo_especifico": "2 Industria y producción",
+    "campo_detallado": "2 Materiales",
+    "carrera": "B Materiales y Procesos Sostenibles",
+    "titulacion": "01 Ingeniero/a en Materiales y Procesos Sostenibles"
+  },
+  {
+    "campo_amplio": "07 Ingeniería, industria y construcción ",
+    "campo_especifico": "2 Industria y producción",
+    "campo_detallado": "3 Productos textiles",
+    "carrera": "A Textiles",
+    "titulacion": "01 Ingeniero/a Textil"
+  },
+  {
+    "campo_amplio": "07 Ingeniería, industria y construcción ",
+    "campo_especifico": "2 Industria y producción",
+    "campo_detallado": "4 Minería y extracción",
+    "carrera": "A Minas",
+    "titulacion": "01 Ingeniero/a en Minas"
+  },
+  {
+    "campo_amplio": "07 Ingeniería, industria y construcción ",
+    "campo_especifico": "2 Industria y producción",
+    "campo_detallado": "4 Minería y extracción",
+    "carrera": "B Petróleos",
+    "titulacion": "01 Ingeniero/a en Petróleos"
+  },
+  {
+    "campo_amplio": "07 Ingeniería, industria y construcción ",
+    "campo_especifico": "2 Industria y producción",
+    "campo_detallado": "4 Minería y extracción",
+    "carrera": "C Minas y Energía",
+    "titulacion": "01 Ingeniero/a en Minas y Energía"
+  },
+  {
+    "campo_amplio": "07 Ingeniería, industria y construcción ",
+    "campo_especifico": "2 Industria y producción",
+    "campo_detallado": "5 Producción industrial",
+    "carrera": "A Ingeniería de la Producción",
+    "titulacion": "01 Ingeniero/a de la Producción"
+  },
+  {
+    "campo_amplio": "07 Ingeniería, industria y construcción ",
+    "campo_especifico": "2 Industria y producción",
+    "campo_detallado": "5 Producción industrial",
+    "carrera": "B Bioprocesos",
+    "titulacion": "01 Ingeniero/a en Bioprocesos"
+  },
+  {
+    "campo_amplio": "07 Ingeniería, industria y construcción ",
+    "campo_especifico": "2 Industria y producción",
+    "campo_detallado": "6 Seguridad industrial",
+    "carrera": "A Seguridad Industrial",
+    "titulacion": "01 Ingeniero/a en Seguridad Industrial"
+  },
+  {
+    "campo_amplio": "07 Ingeniería, industria y construcción ",
+    "campo_especifico": "2 Industria y producción",
+    "campo_detallado": "7 Diseño industrial y de procesos",
+    "carrera": "A Diseño Industrial",
+    "titulacion": "01 Ingeniero/a en Diseño Industrial"
+  },
+  {
+    "campo_amplio": "07 Ingeniería, industria y construcción ",
+    "campo_especifico": "2 Industria y producción",
+    "campo_detallado": "7 Diseño industrial y de procesos",
+    "carrera": "B Ingeniería Industrial",
+    "titulacion": "01 Ingeniero/a Industrial"
+  },
+  {
+    "campo_amplio": "07 Ingeniería, industria y construcción ",
+    "campo_especifico": "2 Industria y producción",
+    "campo_detallado": "8 Mantenimiento industrial",
+    "carrera": "A Mantenimiento Industrial",
+    "titulacion": "01 Ingeniero/a en Mantenimiento Industrial"
+  },
+  {
+    "campo_amplio": "07 Ingeniería, industria y construcción ",
+    "campo_especifico": "2 Industria y producción",
+    "campo_detallado": "9 Bioingeniería",
+    "carrera": "A Bioingeniería",
+    "titulacion": "01 Bioingeniero/a"
+  },
+  {
+    "campo_amplio": "07 Ingeniería, industria y construcción ",
+    "campo_especifico": "3 Arquitectura y construcción",
+    "campo_detallado": "1 Urbanismo y restauración",
+    "carrera": "A Urbanismo",
+    "titulacion": "01 Licenciado/a en Urbanismo"
+  },
+  {
+    "campo_amplio": "07 Ingeniería, industria y construcción ",
+    "campo_especifico": "3 Arquitectura y construcción",
+    "campo_detallado": "1 Urbanismo y restauración",
+    "carrera": "B Rest. y Cons. de Bienes Culturales",
+    "titulacion": "01 Restaurador/a y Conservador/a de Bienes Culturales"
+  },
+  {
+    "campo_amplio": "07 Ingeniería, industria y construcción ",
+    "campo_especifico": "3 Arquitectura y construcción",
+    "campo_detallado": "1 Urbanismo y restauración",
+    "carrera": "C Arquitectura y Urbanismo",
+    "titulacion": "01 Arquitecto/a Urbanista"
+  },
+  {
+    "campo_amplio": "07 Ingeniería, industria y construcción ",
+    "campo_especifico": "3 Arquitectura y construcción",
+    "campo_detallado": "1 Urbanismo y restauración",
+    "carrera": "D Planificación Urbana y Territorial",
+    "titulacion": "01 Ingeniero/a en Planificación Urbana y Territorial"
+  },
+  {
+    "campo_amplio": "07 Ingeniería, industria y construcción ",
+    "campo_especifico": "3 Arquitectura y construcción",
+    "campo_detallado": "2 Construcción e ingeniería civil",
+    "carrera": "A Ingeniería Civil",
+    "titulacion": "01 Ingeniero/a Civil"
+  },
+  {
+    "campo_amplio": "07 Ingeniería, industria y construcción ",
+    "campo_especifico": "3 Arquitectura y construcción",
+    "campo_detallado": "81 Arquitectura",
+    "carrera": "A Arquitectura",
+    "titulacion": "01 Arquitecto/a"
+  },
+  {
+    "campo_amplio": "07 Ingeniería, industria y construcción ",
+    "campo_especifico": "3 Arquitectura y construcción",
+    "campo_detallado": "81 Arquitectura",
+    "carrera": "B Arquitectura Sostenible",
+    "titulacion": "01 Arquitecto/a Sostenible"
+  },
+  {
+    "campo_amplio": "07 Ingeniería, industria y construcción ",
+    "campo_especifico": "3 Arquitectura y construcción",
+    "campo_detallado": "81 Arquitectura",
+    "carrera": "C Arquitectura de Interiores",
+    "titulacion": "01 Licenciado/a en Arquitectura de Interiores"
+  },
+  {
+    "campo_amplio": "08 Agricultura, silvicultura, pesca y veterinaria ",
+    "campo_especifico": "1 Agricultura",
+    "campo_detallado": "1 Producción agrícola y ganadera",
+    "carrera": "A Agronomía",
+    "titulacion": "01 Ingeniero/a Agrónomo/a"
+  },
+  {
+    "campo_amplio": "08 Agricultura, silvicultura, pesca y veterinaria ",
+    "campo_especifico": "1 Agricultura",
+    "campo_detallado": "1 Producción agrícola y ganadera",
+    "carrera": "B Agropecuaria",
+    "titulacion": "01 Ingeniero/a Agropecuario/a"
+  },
+  {
+    "campo_amplio": "08 Agricultura, silvicultura, pesca y veterinaria ",
+    "campo_especifico": "1 Agricultura",
+    "campo_detallado": "1 Producción agrícola y ganadera",
+    "carrera": "C Ingeniería Agrícola",
+    "titulacion": "01 Ingeniero/a Agrícola"
+  },
+  {
+    "campo_amplio": "08 Agricultura, silvicultura, pesca y veterinaria ",
+    "campo_especifico": "1 Agricultura",
+    "campo_detallado": "1 Producción agrícola y ganadera",
+    "carrera": "D Zootecnia",
+    "titulacion": "01 Ingeniero/a Zootecnista"
+  },
+  {
+    "campo_amplio": "08 Agricultura, silvicultura, pesca y veterinaria ",
+    "campo_especifico": "1 Agricultura",
+    "campo_detallado": "1 Producción agrícola y ganadera",
+    "carrera": "E Ingeniería Agrícola y Biológica",
+    "titulacion": "01 Ingeniero/a Agrícola y Biológico/a"
+  },
+  {
+    "campo_amplio": "08 Agricultura, silvicultura, pesca y veterinaria ",
+    "campo_especifico": "1 Agricultura",
+    "campo_detallado": "1 Producción agrícola y ganadera",
+    "carrera": "F Agroecología",
+    "titulacion": "01 Ingeniero/a en Agroecología"
+  },
+  {
+    "campo_amplio": "08 Agricultura, silvicultura, pesca y veterinaria ",
+    "campo_especifico": "1 Agricultura",
+    "campo_detallado": "1 Producción agrícola y ganadera",
+    "carrera": "G Agroecología y Soberanía Alimentaria",
+    "titulacion": "01 Ingeniero/a en Agroecología y Soberanía Alimentaria"
+  },
+  {
+    "campo_amplio": "08 Agricultura, silvicultura, pesca y veterinaria ",
+    "campo_especifico": "1 Agricultura",
+    "campo_detallado": "1 Producción agrícola y ganadera",
+    "carrera": "H Ingeniería Agroforestal",
+    "titulacion": "01 Ingeniero/a Agroforestal"
+  },
+  {
+    "campo_amplio": "08 Agricultura, silvicultura, pesca y veterinaria ",
+    "campo_especifico": "2 Silvicultura",
+    "campo_detallado": "1 Silvicultura",
+    "carrera": "A Ingeniería Forestal",
+    "titulacion": "01 Ingeniero/a Forestal"
+  },
+  {
+    "campo_amplio": "08 Agricultura, silvicultura, pesca y veterinaria ",
+    "campo_especifico": "3 Pesca",
+    "campo_detallado": "1 Pesca",
+    "carrera": "A Acuicultura",
+    "titulacion": "01 Ingeniero/a Acuícola"
+  },
+  {
+    "campo_amplio": "08 Agricultura, silvicultura, pesca y veterinaria ",
+    "campo_especifico": "4 Veterinaria",
+    "campo_detallado": "1 Veterinaria",
+    "carrera": "A Medicina Veterinaria",
+    "titulacion": "01 Médico/a Veterinario/a"
+  },
+  {
+    "campo_amplio": "08 Agricultura, silvicultura, pesca y veterinaria ",
+    "campo_especifico": "4 Veterinaria",
+    "campo_detallado": "1 Veterinaria",
+    "carrera": "B Medicina Veterinaria y Manejo de Vida Silvestre",
+    "titulacion": "01 Médico/a Veterinario/a y Manejo de Vida Silvestre"
+  },
+  {
+    "campo_amplio": "09 Salud y bienestar ",
+    "campo_especifico": "1 Salud",
+    "campo_detallado": "1 Odontología",
+    "carrera": "A Odontología",
+    "titulacion": "01 Odontólogo/a"
+  },
+  {
+    "campo_amplio": "09 Salud y bienestar ",
+    "campo_especifico": "1 Salud",
+    "campo_detallado": "2 Medicina",
+    "carrera": "A Medicina",
+    "titulacion": "01 Médico/a General"
+  },
+  {
+    "campo_amplio": "09 Salud y bienestar ",
+    "campo_especifico": "1 Salud",
+    "campo_detallado": "3 Enfermería y obstetricia",
+    "carrera": "A Enfermería",
+    "titulacion": "01 Licenciado/a en Enfermería"
+  },
+  {
+    "campo_amplio": "09 Salud y bienestar ",
+    "campo_especifico": "1 Salud",
+    "campo_detallado": "3 Enfermería y obstetricia",
+    "carrera": "B Obstetricia",
+    "titulacion": "01 Obstetra"
+  },
+  {
+    "campo_amplio": "09 Salud y bienestar ",
+    "campo_especifico": "1 Salud",
+    "campo_detallado": "4 Tecnología de diagnóstico y tratamiento médico",
+    "carrera": "A Imagenología y Radiología",
+    "titulacion": "01 Licenciado/a en Imagenología y Radiología"
+  },
+  {
+    "campo_amplio": "09 Salud y bienestar ",
+    "campo_especifico": "1 Salud",
+    "campo_detallado": "4 Tecnología de diagnóstico y tratamiento médico",
+    "carrera": "B Optometría",
+    "titulacion": "01 Licenciado/a en Optometría"
+  },
+  {
+    "campo_amplio": "09 Salud y bienestar ",
+    "campo_especifico": "1 Salud",
+    "campo_detallado": "4 Tecnología de diagnóstico y tratamiento médico",
+    "carrera": "C Atención Prehospitalaria y Emergencias",
+    "titulacion": "01 Licenciado/a en Atención Prehospitalaria y Emergencias"
+  },
+  {
+    "campo_amplio": "09 Salud y bienestar ",
+    "campo_especifico": "1 Salud",
+    "campo_detallado": "4 Tecnología de diagnóstico y tratamiento médico",
+    "carrera": "D Bioquímica y Farmacia",
+    "titulacion": "01 Bioquímico/a Farmacéutico/a"
+  },
+  {
+    "campo_amplio": "09 Salud y bienestar ",
+    "campo_especifico": "1 Salud",
+    "campo_detallado": "4 Tecnología de diagnóstico y tratamiento médico",
+    "carrera": "E Laboratorio Clínico",
+    "titulacion": "01 Licenciado/a en Laboratorio Clínico"
+  },
+  {
+    "campo_amplio": "09 Salud y bienestar ",
+    "campo_especifico": "1 Salud",
+    "campo_detallado": "5 Terapia, rehabilitación y salud mental",
+    "carrera": "A Fisioterapia",
+    "titulacion": "01 Licenciado/a en Fisioterapia"
+  },
+  {
+    "campo_amplio": "09 Salud y bienestar ",
+    "campo_especifico": "1 Salud",
+    "campo_detallado": "5 Terapia, rehabilitación y salud mental",
+    "carrera": "B Terapia Ocupacional",
+    "titulacion": "01 Licenciado/a en Terapia Ocupacional"
+  },
+  {
+    "campo_amplio": "09 Salud y bienestar ",
+    "campo_especifico": "1 Salud",
+    "campo_detallado": "5 Terapia, rehabilitación y salud mental",
+    "carrera": "C Fonoaudiología",
+    "titulacion": "01 Licenciado/a en Fonoaudiología"
+  },
+  {
+    "campo_amplio": "09 Salud y bienestar ",
+    "campo_especifico": "1 Salud",
+    "campo_detallado": "5 Terapia, rehabilitación y salud mental",
+    "carrera": "D Psicología Clínica",
+    "titulacion": "01 Licenciado/a en Psicología Clínica o Psicólogo/a Clínico/a"
+  },
+  {
+    "campo_amplio": "09 Salud y bienestar ",
+    "campo_especifico": "1 Salud",
+    "campo_detallado": "5 Terapia, rehabilitación y salud mental",
+    "carrera": "E Nutrición y Dietética",
+    "titulacion": "01 Licenciado/a en Nutrición y Dietética"
+  },
+  {
+    "campo_amplio": "09 Salud y bienestar ",
+    "campo_especifico": "1 Salud",
+    "campo_detallado": "5 Terapia, rehabilitación y salud mental",
+    "carrera": "F Terapia Respiratoria",
+    "titulacion": "01 Licenciado/a en Terapia Respiratoria"
+  },
+  {
+    "campo_amplio": "09 Salud y bienestar ",
+    "campo_especifico": "1 Salud",
+    "campo_detallado": "5 Terapia, rehabilitación y salud mental",
+    "carrera": "G Estimulación Temprana en Salud",
+    "titulacion": "01 Licenciado/a en Estimulación Temprana en Salud"
+  },
+  {
+    "campo_amplio": "09 Salud y bienestar ",
+    "campo_especifico": "1 Salud",
+    "campo_detallado": "5 Terapia, rehabilitación y salud mental",
+    "carrera": "H Terapia Física",
+    "titulacion": "01 Licenciado/a en Terapia Física"
+  },
+  {
+    "campo_amplio": "09 Salud y bienestar ",
+    "campo_especifico": "1 Salud",
+    "campo_detallado": "5 Terapia, rehabilitación y salud mental",
+    "carrera": "I Psicología",
+    "titulacion": "01 Licenciado/a en Psicología o Psicólogo/a"
+  },
+  {
+    "campo_amplio": "09 Salud y bienestar ",
+    "campo_especifico": "1 Salud",
+    "campo_detallado": "5 Terapia, rehabilitación y salud mental",
+    "carrera": "J Psicología General",
+    "titulacion": "01 Licenciado/a en Psicología General o Psicólogo/a General"
+  },
+  {
+    "campo_amplio": "09 Salud y bienestar ",
+    "campo_especifico": "1 Salud",
+    "campo_detallado": "5 Terapia, rehabilitación y salud mental",
+    "carrera": "K Psicología Infantil y Psicorrehabilitación",
+    "titulacion": "01 Licenciado/a en Psicología Infantil y Psicorrehabilitación"
+  },
+  {
+    "campo_amplio": "09 Salud y bienestar ",
+    "campo_especifico": "1 Salud",
+    "campo_detallado": "5 Terapia, rehabilitación y salud mental",
+    "carrera": "L Psicología en Psicorrehabilitación",
+    "titulacion": "01 Licenciado/a en Psicología en Psicorrehabilitación"
+  },
+  {
+    "campo_amplio": "09 Salud y bienestar ",
+    "campo_especifico": "1 Salud",
+    "campo_detallado": "6 Farmacia",
+    "carrera": "A Farmacia",
+    "titulacion": "01 Licenciado/a en Farmacia"
+  },
+  {
+    "campo_amplio": "09 Salud y bienestar ",
+    "campo_especifico": "1 Salud",
+    "campo_detallado": "7 Terapias alternativas y complementarias",
+    "carrera": "A Crear carrera",
+    "titulacion": "01 Crear titulación"
+  },
+  {
+    "campo_amplio": "09 Salud y bienestar ",
+    "campo_especifico": "1 Salud",
+    "campo_detallado": "8 Salud pública",
+    "carrera": "A Promoción de la Salud",
+    "titulacion": "01 Licenciado/a en Promoción de la Salud"
+  },
+  {
+    "campo_amplio": "09 Salud y bienestar ",
+    "campo_especifico": "1 Salud",
+    "campo_detallado": "8 Salud pública",
+    "carrera": "B Ciencias Biomédicas",
+    "titulacion": "01 Licenciado/a en Ciencias Biomédicas"
+  },
+  {
+    "campo_amplio": "09 Salud y bienestar ",
+    "campo_especifico": "2 Bienestar",
+    "campo_detallado": "1 Asistencia a adultos mayores",
+    "carrera": "A Asistencia a Adultos Mayores",
+    "titulacion": "01 Licenciado/a en Asistencia a Adultos Mayores"
+  },
+  {
+    "campo_amplio": "09 Salud y bienestar ",
+    "campo_especifico": "2 Bienestar",
+    "campo_detallado": "1 Asistencia a adultos mayores",
+    "carrera": "B Gerontología",
+    "titulacion": "01 Licenciado/a en Gerontología"
+  },
+  {
+    "campo_amplio": "09 Salud y bienestar ",
+    "campo_especifico": "2 Bienestar",
+    "campo_detallado": "2 Asistencia a la infancia",
+    "carrera": "A Crear carrera",
+    "titulacion": "01 Crear titulación"
+  },
+  {
+    "campo_amplio": "10 Servicios ",
+    "campo_especifico": "1 Servicios personales",
+    "campo_detallado": "3 Hotelería y gastronomía",
+    "carrera": "A Hospitalidad y Hotelería",
+    "titulacion": "01 Licenciado/a en Hospitalidad y Hotelería"
+  },
+  {
+    "campo_amplio": "10 Servicios ",
+    "campo_especifico": "1 Servicios personales",
+    "campo_detallado": "3 Hotelería y gastronomía",
+    "carrera": "B Gastronomía",
+    "titulacion": "01 Licenciado/a en Gastronomía"
+  },
+  {
+    "campo_amplio": "10 Servicios ",
+    "campo_especifico": "1 Servicios personales",
+    "campo_detallado": "4 Actividad física",
+    "carrera": "A Entrenamiento Deportivo",
+    "titulacion": "01 Licenciado/a en Entrenamiento Deportivo"
+  },
+  {
+    "campo_amplio": "10 Servicios ",
+    "campo_especifico": "1 Servicios personales",
+    "campo_detallado": "4 Actividad física",
+    "carrera": "B Gestión Deportiva",
+    "titulacion": "01 Licenciado/a en Gestión Deportiva"
+  },
+  {
+    "campo_amplio": "10 Servicios ",
+    "campo_especifico": "1 Servicios personales",
+    "campo_detallado": "5 Turismo y hotelería",
+    "carrera": "A Turismo",
+    "titulacion": "01 Licenciado/a en Turismo"
+  },
+  {
+    "campo_amplio": "10 Servicios ",
+    "campo_especifico": "1 Servicios personales",
+    "campo_detallado": "5 Turismo y hotelería",
+    "carrera": "B Negocios de Entretenimiento",
+    "titulacion": "01 Licenciado/a en Negocios de Entretenimiento"
+  },
+  {
+    "campo_amplio": "10 Servicios ",
+    "campo_especifico": "1 Servicios personales",
+    "campo_detallado": "5 Turismo y hotelería",
+    "carrera": "C Negocios Turísticos Internacionales",
+    "titulacion": "01 Licenciado/a en Negocios Turísticos Internacionales"
+  },
+  {
+    "campo_amplio": "10 Servicios ",
+    "campo_especifico": "1 Servicios personales",
+    "campo_detallado": "5 Turismo y hotelería",
+    "carrera": "D Turismo Rural, Sostenible e Intercultural",
+    "titulacion": "01 Licenciado/a en Turismo Rural, Sostenible e Intercultural"
+  },
+  {
+    "campo_amplio": "10 Servicios ",
+    "campo_especifico": "1 Servicios personales",
+    "campo_detallado": "5 Turismo y hotelería",
+    "carrera": "E Turismo y Hotelería",
+    "titulacion": "01 Licenciado/a en Turismo y Hotelería"
+  },
+  {
+    "campo_amplio": "10 Servicios ",
+    "campo_especifico": "2 Higiene y salud ocupacional",
+    "campo_detallado": "1 Prevención y gestión de riesgos",
+    "carrera": "A Gestión de Riesgos y Desastres",
+    "titulacion": "01 Licenciado/a en Gestión de Riesgos y Desastres"
+  },
+  {
+    "campo_amplio": "10 Servicios ",
+    "campo_especifico": "2 Higiene y salud ocupacional",
+    "campo_detallado": "1 Prevención y gestión de riesgos",
+    "carrera": "B Ciencias del Fuego y Seg. Contra Incendios",
+    "titulacion": "01 Licenciado/a en Ciencias del Fuego y Seguridad Contra Incendios"
+  },
+  {
+    "campo_amplio": "10 Servicios ",
+    "campo_especifico": "2 Higiene y salud ocupacional",
+    "campo_detallado": "2 Seguridad y salud ocupacional",
+    "carrera": "A Seguridad y Salud Ocupacional",
+    "titulacion": "01 Licenciado/a en Seguridad y Salud Ocupacional"
+  },
+  {
+    "campo_amplio": "10 Servicios ",
+    "campo_especifico": "3 Servicios de seguridad",
+    "campo_detallado": "1 Educación policial, militar y defensa",
+    "carrera": "A Ciencias Militares",
+    "titulacion": "01 Licenciado/a en Ciencias Militares"
+  },
+  {
+    "campo_amplio": "10 Servicios ",
+    "campo_especifico": "3 Servicios de seguridad",
+    "campo_detallado": "1 Educación policial, militar y defensa",
+    "carrera": "B Ciencias Navales",
+    "titulacion": "01 Oficial de Marina"
+  },
+  {
+    "campo_amplio": "10 Servicios ",
+    "campo_especifico": "3 Servicios de seguridad",
+    "campo_detallado": "1 Educación policial, militar y defensa",
+    "carrera": "C Ciencias Aeronáuticas Militares",
+    "titulacion": "01 Licenciado/a en Ciencias Aeronáuticas Militares"
+  },
+  {
+    "campo_amplio": "10 Servicios ",
+    "campo_especifico": "3 Servicios de seguridad",
+    "campo_detallado": "1 Educación policial, militar y defensa",
+    "carrera": "D Ciencias Policiales",
+    "titulacion": "01 Licenciado/a en Ciencias Policiales"
+  },
+  {
+    "campo_amplio": "10 Servicios ",
+    "campo_especifico": "3 Servicios de seguridad",
+    "campo_detallado": "1 Educación policial, militar y defensa",
+    "carrera": "E Ciencias Policiales y Seguridad Ciudadana",
+    "titulacion": "01 Licenciado/a en Ciencias Policiales y Seguridad Ciudadana"
+  },
+  {
+    "campo_amplio": "10 Servicios ",
+    "campo_especifico": "3 Servicios de seguridad",
+    "campo_detallado": "1 Educación policial, militar y defensa",
+    "carrera": "F Seguridad Ciudadana y Ciencias Policiales",
+    "titulacion": "01 Licenciado/a en Seguridad Ciudadana y Ciencias Policiales"
+  },
+  {
+    "campo_amplio": "10 Servicios ",
+    "campo_especifico": "3 Servicios de seguridad",
+    "campo_detallado": "2 Seguridad ciudadana",
+    "carrera": "A Criminalística",
+    "titulacion": "01 Licenciado/a en Criminalística"
+  },
+  {
+    "campo_amplio": "10 Servicios ",
+    "campo_especifico": "3 Servicios de seguridad",
+    "campo_detallado": "2 Seguridad ciudadana",
+    "carrera": "B Seguridad Ciudadana",
+    "titulacion": "01 Licenciado/a en Seguridad Ciudadana"
+  },
+  {
+    "campo_amplio": "10 Servicios ",
+    "campo_especifico": "4 Servicios de transporte",
+    "campo_detallado": "1 Gestión del transporte",
+    "carrera": "A Gestión del Transporte",
+    "titulacion": "01 Licenciado/a en Gestión del Transporte"
+  },
+  {
+    "campo_amplio": "10 Servicios ",
+    "campo_especifico": "4 Servicios de transporte",
+    "campo_detallado": "1 Gestión del transporte",
+    "carrera": "B Ciencias Náuticas",
+    "titulacion": "01 Oficial de Marina Mercante"
+  },
+  {
+    "campo_amplio": "10 Servicios ",
+    "campo_especifico": "4 Servicios de transporte",
+    "campo_detallado": "1 Gestión del transporte",
+    "carrera": "C Gestión de Transporte y Movilidad",
+    "titulacion": "01 Licenciado/a en Gestión de Transporte, Movilidad Sostenible y Seguridad Vial"
+  }
+]

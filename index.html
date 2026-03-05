@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Buscador de Títulos CES Ecuador</title>
+    <link rel="stylesheet" href="styles.css?v=2">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <div class="app-container">
+        <header class="header">
+            <div class="header-content">
+                <div class="logo-container">
+                    <span class="icon">🎓</span>
+                    <h1>Buscador CES</h1>
+                </div>
+                <p>Nomenclatura de Títulos Profesionales y Grados Académicos</p>
+
+                <div class="warning-banner">
+                    <svg class="warning-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+                        stroke-linecap="round" stroke-linejoin="round">
+                        <path
+                            d="M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z">
+                        </path>
+                        <line x1="12" y1="9" x2="12" y2="13"></line>
+                        <line x1="12" y1="17" x2="12.01" y2="17"></line>
+                    </svg>
+                    <span><strong>Uso Exclusivo:</strong> APP para el Comité de Talento Humano</span>
+                </div>
+            </div>
+        </header>
+
+        <main class="main-content">
+            <div class="search-section">
+                <div class="search-box">
+                    <svg class="search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+                        stroke-linecap="round" stroke-linejoin="round">
+                        <circle cx="11" cy="11" r="8"></circle>
+                        <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+                    </svg>
+                    <input type="text" id="searchInput" placeholder="Escribe 'Comercio Exterior' o una carrera..."
+                        autocomplete="off">
+                    <button id="clearBtn" class="clear-btn hidden">
+                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+                            stroke-linecap="round" stroke-linejoin="round">
+                            <line x1="18" y1="6" x2="6" y2="18"></line>
+                            <line x1="6" y1="6" x2="18" y2="18"></line>
+                        </svg>
+                    </button>
+                </div>
+                <div class="results-stats" id="resultsStats">
+                    Introduce un término para buscar
+                </div>
+            </div>
+
+            <div class="results-container" id="resultsContainer">
+                <div class="empty-state">
+                    <div class="empty-icon">🔍</div>
+                    <h3>Encuentra tu carrera fácilmente</h3>
+                    <p>Busca por palabra clave, carrera, titulación o campo específico.</p>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <template id="resultCardTemplate">
+        <div class="result-card">
+            <div class="card-header">
+                <div class="badge-container">
+                    <span class="badge carrera-badge">Carrera</span>
+                </div>
+                <h3 class="carrera-title"></h3>
+            </div>
+
+            <div class="hierarchy-tree">
+                <div class="tree-node">
+                    <div class="node-line"></div>
+                    <div class="node-dot level-1"></div>
+                    <div class="node-content">
+                        <span class="node-label">Campo Amplio</span>
+                        <span class="node-value campo-amplio-val"></span>
+                    </div>
+                </div>
+
+                <div class="tree-node">
+                    <div class="node-line"></div>
+                    <div class="node-dot level-2"></div>
+                    <div class="node-content">
+                        <span class="node-label">Campo Específico</span>
+                        <span class="node-value campo-especifico-val"></span>
+                    </div>
+                </div>
+
+                <div class="tree-node">
+                    <div class="node-line"></div>
+                    <div class="node-dot level-3"></div>
+                    <div class="node-content">
+                        <span class="node-label">Campo Detallado</span>
+                        <span class="node-value campo-detallado-val"></span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="card-footer">
+                <div class="titulacion-container">
+                    <span class="titulacion-label">Se titula como:</span>
+                    <strong class="titulacion-val"></strong>
+                </div>
+            </div>
+        </div>
+    </template>
+
+    <script src="app.js"></script>
+</body>
+
+</html>
